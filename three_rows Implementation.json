@@ -1,0 +1,62 @@
+{
+
+  "@context": {
+    
+    "title":"http://purl.org/dc/terms/title",
+    "url" :
+    {"@id":"http://schema.org/url",
+     "@type":"@id"      
+    },
+    "name":"http://schema.org/name",
+    "Description":"http://purl.org/dc/terms/Description",
+   "hasPubMedID":"http://purl.org/spar/fabio/hasPubMedID",
+    "ResearchFocus":"http://purl.org/dc/terms/subject",
+    "datecreated": "http://schema.org/name/datecreated",
+    "LatestReleaseversion": "http://purl.org/dc/terms/LatestReleaseversion"
+       },
+
+  "Item1":{
+
+    "title": "Safety, Tolerability, and Immunogenicity of Plasmodium falciparum Sporozoite Vaccine Administered by Direct Venous Inoculation to Infants and Young Children",
+  "Description": "KSPZV1 is a single center study conducted in 2 parts. Part 1 is an age de-escalating, dose-escalating, randomized, double-blind, placebo-controlled trial enrolling malaria-exposed Kenyan children ages 5 months to 9 years at the time of first vaccination. One or two doses of the radiation-attenuated sporozoite-based PfSPZ Vaccine (8 per group) or normal saline placebo (4 per group) were administered by DVI at up to 5 different dosing levels using a staggered, dose-escalating design. Dosages include: 1.35 x10^5, 2.7 x10^5 (lowest two doses only in the two younger age groups), 4.5 x10^5, 9.0 x10^5, and 1.8 x10^6 PfSPZ in 13 cohorts of 12 participants each (3 dose cohorts among 5?9-year-olds, 5 among 1?5-year-olds, and 5 among 5?12-month-olds). Part 2 is a randomized, placebo controlled, double blind study in malaria exposed infants ages 5-12 months, comparing the 3 highest does of PfSPZ Vaccine that are tolerated in part 1 (4.5 x10^5, 9.0 x10^5, and 1.8 x10^6 PfSPZ) with a normal saline placebo (randomized 1:1:1:1) to evaluate the safety , tolerability, immunogenicity and vaccine efficacy.",
+
+  "ResearchFocus":"Vaccine Response",
+  
+  "hasPubMedID":"31555824",
+  
+  "datecreated": "2021-06-04",  
+
+  "LatestReleaseversion": "DR39",
+  "url":"https://www.immport.org/shared/study/SDY1711"
+  },
+  "Item2":
+  {  
+ "title": "Controlled malaria infection in Europeans and Africans",
+    "Description":"LACHMI-001 is a human trial to study immunity against Plasmodium falciparum in a controlled infection setting.",
+
+  "ResearchFocus":"Vaccine Response",
+  
+    "hasPubMedID":["29260650 33888898"],
+  
+  "datecreated": "2021-06-04",  
+
+  "LatestReleaseversion": "DR39",
+  "url":"https://auth.immport.org/auth/login"
+  },
+  "Item3":
+  {
+   "title": "B-cell Immunity to Influenza (SLVP017) 2011",
+    "Description":"Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+
+  "ResearchFocus":"Vaccine response",
+  
+  "hasPubMedID":"33260001",
+  
+  "datecreated": "2021-06-04",  
+
+  "LatestReleaseversion": "DR39",
+  "url":"https://www.immport.org/shared/study/SDY1469"
+  }
+}
+  
+   
