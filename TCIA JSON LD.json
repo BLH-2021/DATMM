@@ -1,0 +1,361 @@
+
+{
+
+  "@context": {
+    
+     "required": [
+    "contribution",
+    "description",
+    "homepage",
+    "language",
+    "subject",
+    "title",
+    "name",
+    "inScheme",
+    "label",
+    "agent",
+    "encodingformat",
+       "url",
+       "type",
+       "title",
+       "hasGrantNumber",
+       "isFundedBy",
+       "homepage",
+       "title"
+  ],
+        
+    "accrualPeriodicity":"http://purl.org/dc/terms/accrualPeriodicity",
+    
+    "alternative":{
+    "@id":"http://purl.org/dc/terms/alternative",
+      
+      "@type":"@id",
+       
+     "type": "array"  
+   
+
+  },
+    
+    "conformsTo": {
+    "@id":"http://purl.org/dc/terms/conformsTo",
+      
+          
+      "@type":"@id",
+       
+     "type": "array"
+      
+      },
+    
+     "Contribution":{
+
+    "@id":"http://id.loc.gov/ontologies/bibframe/",
+
+    "@type":"@id",
+       
+     "type": "array"  
+   
+
+  },
+    
+    "createdWith": {
+      "@id":"http://purl.org/pav/createdWith",
+      
+      "@type":"@id",
+       
+     "type": "array"  
+      
+    }, 
+      
+    
+    "description":"http://purl.org/dc/terms/description",
+    
+   
+    "distribution": {
+      
+      "@id":"http://purl.org/dc/terms/Subject",
+
+      "@type":"@id",
+      
+      "type": "array" 
+      
+    },
+    
+    "format":{
+      "@id":"http://purl.org/dc/terms/format",
+      
+       "@type":"@id",
+      
+      "type": "array"
+      
+       },
+    
+    "homepage": {
+      
+      "@id":"http://purl.org/dc/terms/homepage",
+
+      "@type":"@id"
+      
+    },
+    
+    "identifier":{
+    "@id":"http://purl.org/dc/terms/identifier",
+      
+     "@type":"@id",
+      
+     "type": "array"
+      
+       },
+    
+    
+    "isPartof": {
+      
+     "@id":"http://purl.org/dc/terms/partof",
+
+      "@type":"@id",
+      
+      "type": "array"
+      
+      
+    },
+      
+    "issued": "http://purl.org/dc/terms/issued",
+    
+    "referencedby": {
+      
+      "@id":"http://purl.org/dc/terms/referencedby",
+
+      "@type":"@id",
+      
+      "type": "array" 
+      
+    },
+    
+    "supportedby":{
+      
+      "@id": "http://purl.org/dc/terms/supportedby",
+      
+        "@type":"@id",
+      
+       "type": "array" 
+      
+    },
+    
+    "isversionof":{
+    
+    "@id" : "http://purl.org/cerif/frapo/isversionof",
+    
+     "@type":"@id",
+      
+      "type": "array" 
+      
+    },    
+    
+    
+    "language":{
+      
+      "@id" :"http://purl.org/dc/terms/language",
+      
+        "@type":"@id",
+      
+      "type": "array" 
+      
+    }, 
+    "license":"http://purl.org/dc/terms/license",
+    
+    "relation":{
+      
+     "@id":"http://purl.org/dc/terms/relation",
+      
+    "@type":"@id",
+      
+      "type": "array" 
+      
+    },
+    
+    "Rights": {
+      "@id":"http://purl.org/dc/terms/rights",
+       "@type":"@id",
+      
+      "type": "array" 
+      
+    },
+    
+    "Subject":{
+
+      "@id":"http://purl.org/dc/terms/Subject",
+
+      "@type":"@id",
+      
+      "type": "array" 
+
+    },
+     
+    "temporal":"http://purl.org/dc/terms/temporal",   
+    
+    
+     "title":"http://purl.org/dc/terms/title",
+   
+
+    "identifier":{
+    "@id":"http://purl.org/dc/terms/identifier",
+      
+      "@type":"@id",
+      
+      "type": "array"
+    },
+    
+    "name": "http://xmlns.com/foaf/0.1/name",
+    
+    "inscheme":"http://www.w3.org/2004/02/skos/core#/inscheme",
+    
+    "label":"http://www.w3.org/2000/01/rdf-schema#/label",
+    
+    "agent":"http://id.loc.gov/ontologies/bibframe/agent",  
+    
+    
+    "role":{
+      "@id":"http://id.loc.gov/ontologies/bibframe/role",
+      
+       "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
+    
+    "Contentsize":"http://schema.org/Contentsize",
+    
+    "Datecreated":"http://schema.org/Datecreated",
+    
+    "Description": "http://schema.org/Description",
+    
+    "Encodingformat": {
+      "@id":"http://schema.org/Encodingformat",
+      
+       "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
+    
+    "inLanguage": {
+     "@id":"http://schema.org/inLanguage",
+       "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
+    
+    "name":"http://schema.org/name",
+    
+    "url": {
+      
+     "@id": "http://schema.org/url",
+      
+     "@type":"@id"
+      
+      },
+    "type":"http://www.w3.org/1999/02/22-rdf-syntax-ns#/type",
+    
+    "bibliographicCitation":"http://purl.org/dc/terms/bibliographicCitation",
+    
+    "doi": "http://prismstandard.org/namespaces/basic/3.0/doi",
+    
+    "hasPubMedId":"http://purl.org/spar/fabio/hasPubMedId",
+    
+    "homepage":{
+      
+     "@id": "http://xmlns.com/foaf/0.1/homepage",
+      
+     "@type":"@id"
+      
+    },
+    
+    "identifier":{
+      
+     "@id":"http://purl.org/dc/terms/identifier",
+      
+        "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
+    
+    "title":"http://purl.org/dc/terms/title",
+    
+    "hasGrantNumber":"http://purl.org/cerif/frapo/hasGrantNumber", 
+   
+    
+    "isFundedBy":{
+      
+     "@id":"http://purl.org/cerif/frapo/isFundedBy",
+      
+     "@type":"@id",           
+      
+      "type": "array"
+     
+    },
+    
+    "alternative":{
+      "@id": "http://purl.org/dc/terms/alternative",
+      
+      "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
+    
+    "homepage":{
+      
+     "@id":"http://xmlns.com/foaf/0.1/homepage",
+      
+     "@type":"@id"
+      
+    },
+    
+    "identifier":"http://purl.org/dc/terms/identifier",
+    
+    "title":"http://purl.org/dc/terms/title"   
+
+  
+  },
+
+
+  "Series":{
+          
+    "identifier": "1.3.6.1.4.1.14519.5.2.1.6834.5010.316629238180878262722309317510",
+    
+    "title": "4D-Lung", 
+     "description": "P4P101S105I0 Gated 40.0",
+    "Data Description URI":{
+      "identfier":"https://doi.org/10.7937/K9/TCIA.2016.ELN8YGLE"
+    },
+
+    "Study":{
+  				 
+      "identifier":"1.3.6.1.4.1.14519.5.2.1.6834.5010.167583791739429210084265071454",
+      "Subject":{
+        "Identifier":"101_HM10395"
+      },
+      				"title":"P4",
+      				"Datecreated":"11/6/1997",
+      				"Agent":"Varian Imaging Laboratories",    
+      				"Contentsize": "50",
+    				"url": "25.18 MB",
+      "SOP":{
+        
+        "identifier":"CT Image Storage",
+    			"label":"CT"
+      }
+  				
+    
+				 
+  }
+  }
+
+}  
+  
