@@ -2,35 +2,92 @@
 {
 
   "@context": {
+    
+     "required": [
+    "contribution",
+    "description",
+    "homepage",
+    "language",
+    "subject",
+    "title",
+    "name",
+    "inScheme",
+    "label",
+    "agent",
+    "encodingformat",
+       "url",
+       "type",
+       "title",
+       "hasGrantNumber",
+       "isFundedBy",
+       "homepage",
+       "title"
+  ],
         
     "accrualPeriodicity":"http://purl.org/dc/terms/accrualPeriodicity",
     
-    "alternative":"http://purl.org/dc/terms/alternative",
+    "alternative":{
+    "@id":"http://purl.org/dc/terms/alternative",
+      
+      "@type":"@id",
+       
+     "type": "array"  
+   
+
+  },
     
-    "conformsTo": "http://purl.org/dc/terms/conformsTo",
+    "conformsTo": {
+    "@id":"http://purl.org/dc/terms/conformsTo",
+      
+          
+      "@type":"@id",
+       
+     "type": "array"
+      
+      },
     
      "Contribution":{
 
     "@id":"http://id.loc.gov/ontologies/bibframe/",
 
-    "@type":"@id"
+    "@type":"@id",
+       
+     "type": "array"  
+   
 
   },
     
-    "createdWith": "http://purl.org/pav/createdWith",
+    "createdWith": {
+      "@id":"http://purl.org/pav/createdWith",
+      
+      "@type":"@id",
+       
+     "type": "array"  
+      
+    }, 
       
     
     "description":"http://purl.org/dc/terms/description",
     
+   
     "distribution": {
       
       "@id":"http://purl.org/dc/terms/Subject",
 
-      "@type":"@id"
+      "@type":"@id",
+      
+      "type": "array" 
       
     },
     
-    "format":"http://purl.org/dc/terms/format",
+    "format":{
+      "@id":"http://purl.org/dc/terms/format",
+      
+       "@type":"@id",
+      
+      "type": "array"
+      
+       },
     
     "homepage": {
       
@@ -40,12 +97,24 @@
       
     },
     
-    "identifier":"http://purl.org/dc/terms/identifier",
+    "identifier":{
+    "@id":"http://purl.org/dc/terms/identifier",
+      
+     "@type":"@id",
+      
+     "type": "array"
+      
+       },
+    
+    
     "isPartof": {
       
      "@id":"http://purl.org/dc/terms/partof",
 
-      "@type":"@id" 
+      "@type":"@id",
+      
+      "type": "array"
+      
       
     },
       
@@ -55,7 +124,9 @@
       
       "@id":"http://purl.org/dc/terms/referencedby",
 
-      "@type":"@id" 
+      "@type":"@id",
+      
+      "type": "array" 
       
     },
     
@@ -63,7 +134,9 @@
       
       "@id": "http://purl.org/dc/terms/supportedby",
       
-        "@type":"@id" 
+        "@type":"@id",
+      
+       "type": "array" 
       
     },
     
@@ -71,29 +144,49 @@
     
     "@id" : "http://purl.org/cerif/frapo/isversionof",
     
-     "@type":"@id" 
+     "@type":"@id",
+      
+      "type": "array" 
       
     },    
     
-    "language":"http://purl.org/dc/terms/language",
     
+    "language":{
+      
+      "@id" :"http://purl.org/dc/terms/language",
+      
+        "@type":"@id",
+      
+      "type": "array" 
+      
+    }, 
     "license":"http://purl.org/dc/terms/license",
     
     "relation":{
       
      "@id":"http://purl.org/dc/terms/relation",
       
-    "@type":"@id"
+    "@type":"@id",
+      
+      "type": "array" 
       
     },
     
-    "Rights": "http://purl.org/dc/terms/rights",
+    "Rights": {
+      "@id":"http://purl.org/dc/terms/rights",
+       "@type":"@id",
+      
+      "type": "array" 
+      
+    },
     
     "Subject":{
 
       "@id":"http://purl.org/dc/terms/Subject",
 
-      "@type":"@id"
+      "@type":"@id",
+      
+      "type": "array" 
 
     },
      
@@ -103,7 +196,13 @@
      "title":"http://purl.org/dc/terms/title",
    
 
-    "identifier":"http://purl.org/dc/terms/identifier",
+    "identifier":{
+    "@id":"http://purl.org/dc/terms/identifier",
+      
+      "@type":"@id",
+      
+      "type": "array"
+    },
     
     "name": "http://xmlns.com/foaf/0.1/name",
     
@@ -111,15 +210,18 @@
     
     "label":"http://www.w3.org/2000/01/rdf-schema#/label",
     
-    "agent":{
+    "agent":"http://id.loc.gov/ontologies/bibframe/agent",  
+    
+    
+    "role":{
+      "@id":"http://id.loc.gov/ontologies/bibframe/role",
       
-     "@id": "http://id.loc.gov/ontologies/bibframe/agent",
+       "@type":"@id",  
+    
       
-     "@type":"@id"
+      "type": "array"
       
       },
-    
-    "role":"http://id.loc.gov/ontologies/bibframe/role",
     
     "Contentsize":"http://schema.org/Contentsize",
     
@@ -127,9 +229,24 @@
     
     "Description": "http://schema.org/Description",
     
-    "Encodingformat": "http://schema.org/Encodingformat",
+    "Encodingformat": {
+      "@id":"http://schema.org/Encodingformat",
+      
+       "@type":"@id",  
     
-    "inLanguage": "http://schema.org/inLanguage",
+      
+      "type": "array"
+      
+      },
+    
+    "inLanguage": {
+     "@id":"http://schema.org/inLanguage",
+       "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
     
     "name":"http://schema.org/name",
     
@@ -156,7 +273,16 @@
       
     },
     
-    "identifier":"http://purl.org/dc/terms/identifier",
+    "identifier":{
+      
+     "@id":"http://purl.org/dc/terms/identifier",
+      
+        "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
     
     "title":"http://purl.org/dc/terms/title",
     
@@ -167,11 +293,21 @@
       
      "@id":"http://purl.org/cerif/frapo/isFundedBy",
       
-     "@type":"@id"
+     "@type":"@id",           
       
+      "type": "array"
+     
     },
     
-    "alternative":"http://purl.org/dc/terms/alternative",
+    "alternative":{
+      "@id": "http://purl.org/dc/terms/alternative",
+      
+      "@type":"@id",  
+    
+      
+      "type": "array"
+      
+      },
     
     "homepage":{
       
@@ -197,7 +333,7 @@
     
     "conformsTo": "CSV",
     
-    "contribution":"http://id.nlm.nih.gov/datmm/contrib/12346",
+    "contribution":["http://id.nlm.nih.gov/datmm/contrib/12346","https://json-ld.org/playground/"],
     
     "createdWith":"my homegrown program",
     
@@ -222,7 +358,7 @@
     
     "isversionof":"http://id.nlm.nih.gov/datmm/dataset/12345",    
     
-    "language":"English",
+    "language":["English","Hindi"],
     
     "license":"http://creativecommons.org/licenses/by/3.0/",    
 
@@ -232,7 +368,7 @@
     
     "temporal":"Data gathered 2003-2013",
     
-     "title": "HSNCC",
+    "title": "HSNCC", 
 
     "Concept":{
   
