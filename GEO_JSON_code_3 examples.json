@@ -1,4 +1,5 @@
 
+
 {
 
   "@context": {
@@ -46,9 +47,9 @@
       
       },
     
-     "Contribution":{
+     "contribution":{
 
-    "@id":"http://id.loc.gov/ontologies/bibframe/",
+    "@id":"http://id.loc.gov/ontologies/bibframe/contribution",
 
     "@type":"@id",
        
@@ -72,7 +73,7 @@
    
     "distribution": {
       
-      "@id":"http://purl.org/dc/terms/Subject",
+      "@id":"http://schema.org/distribution",
 
       "@type":"@id",
       
@@ -107,9 +108,9 @@
        },
     
     
-    "isPartof": {
+    "isPartOf": {
       
-     "@id":"http://purl.org/dc/terms/partof",
+     "@id":"http://purl.org/dc/terms/ispartOf",
 
       "@type":"@id",
       
@@ -120,9 +121,9 @@
       
     "issued": "http://purl.org/dc/terms/issued",
     
-    "referencedby": {
+    "isReferencedBy": {
       
-      "@id":"http://purl.org/dc/terms/referencedby",
+      "@id":"http://purl.org/dc/terms/isReferencedBy",
 
       "@type":"@id",
       
@@ -130,9 +131,9 @@
       
     },
     
-    "supportedby":{
+    "isSupportedBy":{
       
-      "@id": "http://purl.org/dc/terms/supportedby",
+      "@id": "http://purl.org/dc/terms/isSupportedBy",
       
         "@type":"@id",
       
@@ -140,9 +141,9 @@
       
     },
     
-    "isversionof":{
+    "isVersionOf":{
     
-    "@id" : "http://purl.org/cerif/frapo/isversionof",
+    "@id" : "http://purl.org/cerif/frapo/isVersionOf",
     
      "@type":"@id",
       
@@ -172,7 +173,7 @@
       
     },
     
-    "Rights": {
+    "rights": {
       "@id":"http://purl.org/dc/terms/rights",
        "@type":"@id",
       
@@ -180,9 +181,9 @@
       
     },
     
-    "Subject":{
+    "subject":{
 
-      "@id":"http://purl.org/dc/terms/Subject",
+      "@id":"http://purl.org/dc/terms/subject",
 
       "@type":"@id",
       
@@ -206,9 +207,9 @@
     
     "name": "http://xmlns.com/foaf/0.1/name",
     
-    "inscheme":"http://www.w3.org/2004/02/skos/core#/inscheme",
+    "inScheme":"http://www.w3.org/2004/02/skos/core#inScheme",
     
-    "label":"http://www.w3.org/2000/01/rdf-schema#/label",
+    "label":"http://www.w3.org/2000/01/rdf-schema#label",
     
     "agent":"http://id.loc.gov/ontologies/bibframe/agent",  
     
@@ -223,14 +224,14 @@
       
       },
     
-    "Contentsize":"http://schema.org/Contentsize",
+    "contentSize":"http://schema.org/contentSize",
     
-    "Datecreated":"http://schema.org/Datecreated",
+    "dateCreated":"http://schema.org/dateCreated",
     
-    "Description": "http://schema.org/Description",
+    "description": "http://schema.org/description",
     
-    "Encodingformat": {
-      "@id":"http://schema.org/Encodingformat",
+    "encodingformat": {
+      "@id":"http://schema.org/encodingFormat",
       
        "@type":"@id",  
     
@@ -257,7 +258,7 @@
      "@type":"@id"
       
       },
-    "type":"http://www.w3.org/1999/02/22-rdf-syntax-ns#/type",
+    "type":"http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
     
     "bibliographicCitation":"http://purl.org/dc/terms/bibliographicCitation",
     
@@ -329,75 +330,145 @@
   "Dataset":{
      "issued":"Public on Jan 04, 2016",
     
-     "title": "Insights into responses of human astrocytes to H5N1 infection by transcriptional analysis",   
-    "Subject":"Homo sapiens",
+      "subject":"Homo sapiens", 
     
-     "identifier": "Expression profiling by array",
+      
+    "description": "Increasing evidence demonstrates influenza virus can not only affect the respiratory system, but also infect CNS and lead to CNS disorder and encephalopathy and encephalitis. Astrocytes are the most abundant cells in the CNS, which are capable of producing cytokines and neurotrophic factors and are essential for brain homeostasis and neuronal function. Previous studies suggested that influenza virus can infect astrocytes and induce proinflammatory cytokines response as well as apoptosis. Nevertheless, very few mechanistic data are available regarding host responses to H5N1 infection in astrocytes. In this study, a functional genomics approach was utilized to investigate comprehensive host responses to H5N1 infection in a human astrocyte cell line, U251 cells."  
     
-    "description": "Increasing evidence demonstrates influenza virus can not only affect the respiratory system, but also infect CNS and lead to CNS disorder and encephalopathy and encephalitis. Astrocytes are the most abundant cells in the CNS, which are capable of producing cytokines and neurotrophic factors and are essential for brain homeostasis and neuronal function. Previous studies suggested that influenza virus can infect astrocytes and induce proinflammatory cytokines response as well as apoptosis. Nevertheless, very few mechanistic data are available regarding host responses to H5N1 infection in astrocytes. In this study, a functional genomics approach was utilized to investigate comprehensive host responses to H5N1 infection in a human astrocyte cell line, U251 cells.", 
-    
-        
-    "referencedby": "Lin X, Wang R, Zhang J, Sun X et al. Insights into Human Astrocyte Response to H5N1 Infection by Microarray Analysis. Viruses 2015 May 22;7(5):2618-40. PMID: 26008703",   
 
-    "isPartof": "GPL6480 Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version)",
- 
+
+  },
     
   "DataDownload":{   
-          "Datecreated":"Mar 06, 2015"
+          "dateCreated":"Mar 06, 2015",
+         "Download Family 1":
+    {
+      "encodingformat":"SOFT",
+      "name":"SOFT Formated Family File(s)",
+      "url":"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66597/soft/"
+          },
+    "Download Family 2":
+    {
+      "encodingformat":"MINiML",
+      "name":"MINiML Formated Family File(s)",
+      "url":"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66597/miniml/"
+          },
+    "Download Family 3":
+    {
+      "encodingformat":"TXT",
+      "name":"Series Matrix File(s)",
+      "url":"https://ftp.ncbi.nlm.nih.gov/geo/series/GSE66nnn/GSE66597/matrix/"
+          },
+    "Supplementary file":
+    {
+      "encodingformat":"TAR",
+      "name":"GSE66597_RAW.tar",      
+      "contentSize":"161.4 Mb"
+          }
+    
     }, 
       
 
-  "Contribution" :{
+  "Contribution" : {
     
-    "Agent":["Lin X, Wang R, Sun X,Zhang J,Jin M"],   
-       
-    "Contact Name":"Lin xian",
+    "Agent":[    
+      {"Contribution":"Contributor(s)",
+                "name":"Lin X"},
+      {"Contribution":"Contributor(s)",
+                "name":"Wang R"},
+      {"Contribution":"Contributor(s)",
+                "name":"Sun X"},
+      {"Contribution":"Contributor(s)",
+                "name":"Zhang J"},
+      {"Contribution":"Contributor(s)",
+                "name":"Jin M"},   		
+         
     
-    "Organization name": "Huazhong Agricutural University",
+      {"Contribution":"Contact Name",
+       "name":"Lin xian"},
     
-    "Department": "College of Veterinary Medicine",
-    
-    "Lab":"State Key Laboratory of Agricultural Microbiology"
-   }
-    
-  }
+      {"Contribution":"Organization name",
+       "name": "Huazhong Agricutural University"},
+              
+
+      {"Contribution":"Department",
+       "name": "College of Veterinary Medicine"},
+              
+      {"Contribution": "Lab",
+        "name":"State Key Laboratory of Agricultural Microbiology"}
+       ]          
+
     
   },
+    
+    "Documentation":{
+      "bibliographicCitation":["Lin X", "Wang R", "Sun X","Zhang J", "Jin M"],
+      "hasPubMedId":"26008703",
+      "title":"Insights into Human Astrocyte Response to H5N1 Infection by Microarray Analysis. Viruses 2015 May 22;7(5):2618-40",
+      "homepage":"https://pubmed.ncbi.nlm.nih.gov/26008703/"
+     
+     },
+    "Repository":{
+      "title":"Insights into responses of human astrocytes to H5N1 infection by transcriptional analysis",
+      "Identifier":"GSE66597",
+      "homepage":"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?"
+      
+    }
+},
   
- "Object#2": {
+ 
+"Object#2":
+{
   
   "Dataset":{
      "issued":"Public on Jan 04, 2016",
     
-     "title": "Insights into responses of human astrocytes to H5N1 infection by transcriptional analysis",   
-    "Subject":"Homo sapiens",
+      "Subject":"Homo sapiens",
   
     
-    "description": "Gene expression after 6h in control-infected U251", 
-    
+    "description": "Gene expression after 6h in control-infected U251"
    
 
-    "isPartof": "GPL6480",
-  
+  },
     
   "DataDownload":{   
-          "Datecreated":"Mar 06, 2015"
+     "Datecreated":"Mar 06, 2015",
+     "Supplementary file":
+    {
+      "encodingformat":"TXT",
+      "name":"GSM1625995_GE1.txt.gz",      
+      "contentSize":"9.0Mb"
+          }
     }, 
-      
+   
+   
+    "Contribution" :   {
+    
+    "Agent":[         
+    
+      {"Contribution":"Contact Name",
+       "name":"Lin xian"},
+    
+      {"Contribution":"Organization name",
+       "name": "Huazhong Agricutural University"},
+              
 
-  "Contribution" :{   
-     
-       
-    "Contact Name":"Lin xian",
-    
-    "Organization name": "Huazhong Agricutural University",
-    
-    "Department": "College of Veterinary Medicine",
-    
-    "Lab":"State Key Laboratory of Agricultural Microbiology"
+      {"Contribution":"Department",
+       "name": "College of Veterinary Medicine"},
+              
+      {"Contribution": "Lab",
+        "name":"State Key Laboratory of Agricultural Microbiology"}
+      ]            
+
+      
+  },
+  
+     "Repository":{
+      "title":"con6h-rep1",
+      "Identifier":"GSM1625995",
+      "homepage":"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?"
+      
     }
-    
-  }
     
   },   
   
@@ -406,31 +477,49 @@
   
   "Dataset":{
      "issued":"Public on Feb 11, 2008",
-    
-     "title": "Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version)",   
-    "Subject":"Homo sapiens",
-    
  
-    "description": "This multi-pack (4X44K) formatted microarray represents a compiled view of the human genome as it is understood today. The sequence information used to design this product was derived from a broad survey of well known sources such as RefSeq, Goldenpath, Ensembl, Unigene and others. The resulting view of the human genome covers 41K unique genes and transcripts which have been verified and optimized by alignment to the human genome assembly and by Agilent's Empirical Validation process.*** The ID column includes the Agilent Probe Names. A different version of this platform with the Agilent Feature Extraction feature numbers in the ID column is assigned accession number GPL4133",  
+    "Subject":"Homo sapiens",    
+ 
+    "description": "This multi-pack (4X44K) formatted microarray represents a compiled view of the human genome as it is understood today. The sequence information used to design this product was derived from a broad survey of well known sources such as RefSeq, Goldenpath, Ensembl, Unigene and others. The resulting view of the human genome covers 41K unique genes and transcripts which have been verified and optimized by alignment to the human genome assembly and by Agilent's Empirical Validation process.*** The ID column includes the Agilent Probe Names. A different version of this platform with the Agilent Feature Extraction feature numbers in the ID column is assigned accession number GPL4133"   
          
 
-  
+  },
     
-  "DataDownload":{   
-          "Datecreated":"Feb 11, 2008"
-    }, 
+   "DataDownload":{   
+    "dateCreated":"Feb 11, 2008",   
+    "Download Family 1":
+    {
+      "encodingformat":"SOFT",
+      "name":"SOFT Formated Family File(s)",
+      "url":"https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6480/soft/"
+          },
+    "Download Family 2":
+    {
+      "encodingformat":"MINiML",
+      "name":"MINiML Formated Family File(s)",
+      "url":"https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6480/miniml/"
+          }    
+    },  
       
 
   "Contribution" :{
+    
+    "Agent":[    
+      
   
-    
-    "Organization name": "Agilent Technologies"
-    
-  }  
-    
-  }
+  {"Contribution":"Organization name",
+       "name": "Agilent Technologies"}
+      ]
+  },
+   
+    "Repository":{
+      "title":"Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version)",
+      "Identifier":"GPL6480",
+      "homepage":"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?"
+      
+   
     
   } 
   
-  
+ }
 }
