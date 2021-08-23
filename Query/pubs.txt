@@ -1,0 +1,27 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX datmm: <http://schema.org/> 
+PREFIX s:   <http://schema.org/> 
+PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf2: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX frapo: <http://purl.org/cerif/frapo/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT (substr(?title,1,160) as ?TITLE)
+WHERE {
+  # Query Documentations
+  ?s ?x datmm:Documentation .
+
+  # Get their titles
+  ?s dct:bibliographicCitation ?title .
+
+  # Query the funding
+  #?s frapo:isSupportedBy ?funding_object .
+
+  # Get the agent
+  #?funding_object 
+
+  # Get the funding
+  #?funding_object frapo:isFundedBy ?funding .
+}

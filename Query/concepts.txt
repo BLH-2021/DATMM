@@ -1,0 +1,21 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX dct:  <http://purl.org/dc/terms/>
+PREFIX s:   <http://schema.org/> 
+PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf2: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX org: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT ?concept ?id
+WHERE {
+  # Only get articles
+  ?s ?x skos:Concept .
+
+  # Extract these properties of the Article
+  ?s rdf:label ?concept .
+  ?s dct:identifier ?id .
+
+  #?s s:keywords ?kw_object .
+  #?kw_object s:termCode "Concept" .
+  #?kw_object s:name ?protein .
+}

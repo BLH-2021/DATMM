@@ -1,0 +1,25 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX s:   <http://schema.org/> 
+PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf2: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX org: <http://purl.org/dc/terms/>
+PREFIX frapo: <http://purl.org/cerif/frapo/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+SELECT (substr(?grant,1,20) as ?GRANT) ?funder
+WHERE {
+  # Query Datasets
+  ?s ?x frapo:Funding .
+
+  # Get their titles
+  ?s frapo:hasGrantNumber ?grant .
+
+  # Query the funding
+  ?s frapo:isFundedBy ?agent_object .
+
+  # Get the agent
+  #?funding_object 
+
+  # Get the funding
+  ?agent_object foaf:name ?funder .
+}
