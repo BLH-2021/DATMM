@@ -1,0 +1,3 @@
+#   See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt for a description of the columns in this file.
+# assembly_accession	bioproject	biosample	wgs_master	refseq_category	taxid	species_taxid	organism_name	infraspecific_name	isolate	version_status	assembly_level	release_type	genome_rep	seq_rel_date	asm_name	submitter	gbrs_paired_asm	paired_asm_comp	ftp_path	excluded_from_refseq	relation_to_type_material	asm_not_live_date
+GCF_003709585.1	PRJNA504297	SAMN09699341	QURD00000000.1	representative genome	32536	32536	Acinonyx jubatus		Rico	latest	Scaffold	Major	Full	2018/10/22	Aci_jub_2	Felidae consortium	GCA_003709585.1	different	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/709/585/GCF_003709585.1_Aci_jub_2			na
