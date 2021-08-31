@@ -4,11 +4,11 @@
   "@context": {
     
      "required": [
-    "contribution",
+    "contribution" ,
     "description",
     "homepage",
     "language",
-    "subject",
+    "subject" ,
     "title",
     "name",
     "inScheme",
