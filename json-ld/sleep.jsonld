@@ -4,7 +4,7 @@
     "dct:description": "The Stanford Technology Analytics and Genomics in Sleep (STAGES) study is a prospective cross-sectional, multi-site study involving 20 data collection sites from six centers including Stanford University, Bogan Sleep Consulting, Geisinger Health, Mayo Clinic, MedSleep, and St. Luke's Hospital. The project has collected data on 1,500 adult/adolescent patients evaluated for sleep disorders, including:",
     "dct:format": "Unknown",
     "dct:issued": "July 2021",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/stages",
     "dct:title": "Stanford Technology Analytics and Genomics in Sleep - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -14,9 +14,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -40,7 +40,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "974 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/stages/files",
@@ -54,60 +53,60 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68056044",
+        "dct:identifier": "D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -115,7 +114,7 @@
     "dct:description": "In order to accelerate research on pediatric sleep and its connection to health, Nationwide Children's Hospital (NCH) and Carnegie Mellon University (CMU) introduce the NCH Sleep DataBank. This dataset has 3,984 pediatric sleep studies on 3,673 unique patients conducted at NCH in Columbus, Ohio, USA between 2017 and 2019, along with the patients' longitudinal clinical data. The published polysomnography (PSG) contains the patient's physiological signals as well as the technician\u2019s assessment of the sleep stages and descriptions of additional irregularities.",
     "dct:format": "Unknown",
     "dct:issued": "February 2021",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/nchsdb",
     "dct:title": "NCH Sleep DataBank - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -125,9 +124,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -159,7 +158,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "2.07 TB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/nchsdb/files",
@@ -173,49 +171,49 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -223,7 +221,7 @@
     "dct:description": "The Wisconsin Sleep Cohort (WSC) is an ongoing longitudinal study of the causes, consequences, and natural history of sleep disorders, particularly sleep apnea. The WSC uses overnight in-laboratory sleep studies (in-patient studies at the University of Wisconsin - Madison ICTR's CTRC) conducted with a baseline sample of 1,500 Wisconsin state employees, assessed at four-year intervals.",
     "dct:format": "Unknown",
     "dct:issued": "January 15, 2020",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/wsc",
     "dct:title": "Wisconsin Sleep Cohort - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -233,9 +231,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -291,7 +289,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "290 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/wsc/files",
@@ -305,65 +302,65 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Burden of sleep apnea: rationale, design, and major findings of the Wisconsin Sleep Cohort study.",
-        "dct:bibliographicCitation": "Young T, et al. Burden of sleep apnea: rationale, design, and major findings of the Wisconsin Sleep Cohort study. WMJ",
+        "dct:bibliographicCitation": "Young T, et al. Burden of sleep apnea: rationale, design, and major findings of the Wisconsin Sleep Cohort study. WMJ. 2009 Aug;108(5):246-9.",
         "fabio:hasPubMedId": "19743755",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19743755",
         "dct:identifier": "19743755",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -371,7 +368,7 @@
     "dct:description": "The Mignot Nature Communications (MNC) dataset contains raw polysomnography data from an automated sleep staging project using neural networks. The piece was published in Nature Communications and the abstract is below.",
     "dct:format": "Unknown",
     "dct:issued": "January 22, 2021",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/mnc",
     "dct:title": "Mignot Nature Communications - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -381,9 +378,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -423,7 +420,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "234 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/mnc/files",
@@ -437,92 +433,92 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Neural network analysis of sleep stages enables efficient diagnosis of narcolepsy.",
-        "dct:bibliographicCitation": "Stephansen JB, et al. Neural network analysis of sleep stages enables efficient diagnosis of narcolepsy. Nat Commun",
+        "dct:bibliographicCitation": "Stephansen JB, et al. Neural network analysis of sleep stages enables efficient diagnosis of narcolepsy. Nat Commun. 2018 Dec 6;9(1):5229.",
         "prism:doi": "10.1038/s41467-018-07229-3",
         "fabio:hasPubMedId": "30523329",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30523329",
         "dct:identifier": "30523329",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Neural network analysis of sleep stages enables efficient diagnosis of narcolepsy.",
-        "dct:bibliographicCitation": "Stephansen JB, et al. Neural network analysis of sleep stages enables efficient diagnosis of narcolepsy. Nat Commun",
+        "dct:bibliographicCitation": "Stephansen JB, et al. Neural network analysis of sleep stages enables efficient diagnosis of narcolepsy. Nat Commun. 2018 Dec 6;9(1):5229.",
         "prism:doi": "10.1038/s41467-018-07229-3",
         "fabio:hasPubMedId": "30523329",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30523329",
         "dct:identifier": "30523329",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
     "@type": "datmm:Dataset",
     "dct:description": "The Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-Be (nuMoM2b), which began in 2010, studies pregnant women who will be delivering for the first time (nulliparous women). This prospective cohort study evaluates the underlying, interrelated mechanisms of several common adverse pregnancy outcomes, which can be unpredictable in women who have little or no pregnancy history, to help guide their treatment. This initiative addresses a critical group of at-risk women who are currently understudied and represent 40% of U.S. births each year. The results of this study will help inform healthcare providers and their patients who are pregnant or considering pregnancy and will support future research to improve care and outcomes in this group of women.",
     "dct:format": "Unknown",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/numom2b",
     "dct:title": "Nulliparous Pregnancy Outcomes Study Monitoring Mothers-to-be - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -532,9 +528,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -630,7 +626,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "316 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/numom2b/files",
@@ -644,67 +639,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "NuMoM2b Sleep-Disordered Breathing study: objectives and methods.",
-        "dct:bibliographicCitation": "Facco FL, et al. NuMoM2b Sleep-Disordered Breathing study: objectives and methods. Am J Obstet Gynecol",
+        "dct:bibliographicCitation": "Facco FL, et al. NuMoM2b Sleep-Disordered Breathing study: objectives and methods. Am J Obstet Gynecol. 2015 Apr;212(4):542.e1-127.",
         "prism:doi": "10.1016/j.ajog.2015.01.021",
         "fabio:hasPubMedId": "25746730",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25746730",
         "dct:identifier": "25746730",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -712,7 +707,7 @@
     "dct:description": "The\u00a0Sleep Heart Health Study (SHHS)\u00a0is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to determine the cardiovascular and other consequences of sleep-disordered breathing. It tests whether sleep-related breathing is associated with an increased risk of coronary heart disease, stroke, all cause mortality, and hypertension. \u00a0In all, 6,441 men and women aged 40 years and older were enrolled between November 1, 1995 and January 31, 1998 to take part in SHHS Visit 1. During exam cycle 3 (January 2001- June 2003), a second polysomnogram (SHHS Visit 2) was obtained in 3,295 of the participants. CVD Outcomes data were monitored and adjudicated by parent cohorts between baseline and 2011. More than 130 manuscripts have been published investigating predictors and outcomes of sleep disorders. Click here for a full description of SHHS.",
     "dct:format": "Unknown",
     "dct:issued": "October 23, 2013",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/shhs",
     "dct:title": "Sleep Heart Health Study - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -722,9 +717,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -820,7 +815,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "356 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/shhs/files",
@@ -834,65 +828,65 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The Sleep Heart Health Study: design, rationale, and methods.",
-        "dct:bibliographicCitation": "Quan SF, et al. The Sleep Heart Health Study: design, rationale, and methods. Sleep",
+        "dct:bibliographicCitation": "Quan SF, et al. The Sleep Heart Health Study: design, rationale, and methods. Sleep. 1997 Dec;20(12):1077-85.",
         "fabio:hasPubMedId": "9493915",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9493915",
         "dct:identifier": "9493915",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -900,7 +894,7 @@
     "dct:description": "The Childhood Adenotonsillectomy Trial (CHAT) is a multi-center, single-blind, randomized, controlled trial designed to test whether after a 7-month observation period, children, ages 5 to 9.9 years,  with mild to moderate obstructive sleep apnea randomized to early adenotonsillectomy (eAT) will show greater levels of neurocognitive functioning, specifically in the attention-executive functioning domain, than children randomized to watchful waiting plus supportive care (WWSC). Other outcomes assessed included other indices of neurocognitive functioning (learning and memory, information processing, etc.), physical growth, blood pressure, metabolic profile, symptoms and quality of life. Physiological measures of sleep were assessed at baseline and at 7-months with standardized full polysomnography with central scoring at the Brigham and Women\u2019s Sleep Reading Center. In total, 1,447 children had screening polysomnographs and 464 were randomized to treatment.",
     "dct:format": "Unknown",
     "dct:issued": "December 3, 2013",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/chat",
     "dct:title": "Childhood Adenotonsillectomy Trial - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -910,9 +904,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -968,7 +962,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "969 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/chat/files",
@@ -982,67 +975,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "A randomized trial of adenotonsillectomy for childhood sleep apnea.",
-        "dct:bibliographicCitation": "Marcus CL, et al. A randomized trial of adenotonsillectomy for childhood sleep apnea. N Engl J Med",
+        "dct:bibliographicCitation": "Marcus CL, et al. A randomized trial of adenotonsillectomy for childhood sleep apnea. N Engl J Med. 2013 Jun 20;368(25):2366-76.",
         "prism:doi": "10.1056/NEJMoa1215881",
         "fabio:hasPubMedId": "23692173",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23692173",
         "dct:identifier": "23692173",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -1050,7 +1043,7 @@
     "dct:description": "The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) is a multi-center Phase II randomized controlled trial that evaluates the effects of supplemental nocturnal oxygen or Positive Airway Pressure (PAP) therapy, compared to optimal medical preventive therapy, over a 3 month intervention period in patients with cardiovascular disease (CVD) or CVD risk factors and moderate to severe obstructive sleep apnea (Apnea-Hypopnea Index 15 to 50). The study's primary outcome is 24 hour blood pressure profile.",
     "dct:format": "Unknown",
     "dct:issued": "August 5, 2014",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/heartbeat",
     "dct:title": "Heart Biomarker Evaluation in Apnea Treatment - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -1060,9 +1053,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1118,7 +1111,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "55.5 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/heartbeat/files",
@@ -1132,67 +1124,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "CPAP versus oxygen in obstructive sleep apnea.",
-        "dct:bibliographicCitation": "Gottlieb DJ, et al. CPAP versus oxygen in obstructive sleep apnea. N Engl J Med",
+        "dct:bibliographicCitation": "Gottlieb DJ, et al. CPAP versus oxygen in obstructive sleep apnea. N Engl J Med. 2014 Jun 12;370(24):2276-85.",
         "prism:doi": "10.1056/NEJMoa1306766",
         "fabio:hasPubMedId": "24918372",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24918372",
         "dct:identifier": "24918372",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -1200,7 +1192,7 @@
     "dct:description": "The Cleveland Family Study (CFS) is the largest family-based study of sleep apnea worldwide, consisting of 2,284 individuals (46% African American) from 361 families studied on up to 4 occasions over a period of 16 years. The study was begun in 1990 with the initial aims of quantifying the familial aggregation of sleep apnea. NIH renewals provided expansion of the original cohort (including increased minority recruitment) and longitudinal follow-up, with the last exam occurring in February 2006.",
     "dct:format": "Unknown",
     "dct:issued": "October 3, 2014",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/cfs",
     "dct:title": "Cleveland Family Study - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -1210,9 +1202,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1268,7 +1260,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "150 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/cfs/files",
@@ -1282,85 +1273,85 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The familial aggregation of obstructive sleep apnea.",
-        "dct:bibliographicCitation": "Redline S, et al. The familial aggregation of obstructive sleep apnea. Am J Respir Crit Care Med",
+        "dct:bibliographicCitation": "Redline S, et al. The familial aggregation of obstructive sleep apnea. Am J Respir Crit Care Med. 1995 Mar;151(3 Pt 1):682-7.",
         "prism:doi": "10.1164/ajrccm/151.3_Pt_1.682",
         "fabio:hasPubMedId": "7881656",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/7881656",
         "dct:identifier": "7881656",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Risk factors for sleep-disordered breathing in children. Associations with obesity, race, and respiratory problems.",
-        "dct:bibliographicCitation": "Redline S, et al. Risk factors for sleep-disordered breathing in children. Associations with obesity, race, and respiratory problems. Am J Respir Crit Care Med",
+        "dct:bibliographicCitation": "Redline S, et al. Risk factors for sleep-disordered breathing in children. Associations with obesity, race, and respiratory problems. Am J Respir Crit Care Med. 1999 May;159(5 Pt 1):1527-32.",
         "prism:doi": "10.1164/ajrccm.159.5.9809079",
         "fabio:hasPubMedId": "10228121",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/10228121",
         "dct:identifier": "10228121",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -1368,7 +1359,7 @@
     "dct:description": "The multi-center Study of Osteoporotic Fractures (SOF) has 16 years of prospective data about osteoporosis that has served as the basis for many findings about osteoporosis and aging in women age 65 or older. In addition to adjudication of fractures, SOF has tracked cases of incident breast cancer, stroke, and total and cause-specific mortality. The data include serial measures of bone mineral density, measurements of sex and calcitropic hormones, tests of strength and function, cognitive exams, use of medication, health habits and much more.",
     "dct:format": "Unknown",
     "dct:issued": "November 19, 2014",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/sof",
     "dct:title": "Study of Osteoporotic Fractures - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -1378,9 +1369,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1516,7 +1507,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "54 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/sof/files",
@@ -1530,67 +1520,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Sleep-disordered breathing and cognition in older women.",
-        "dct:bibliographicCitation": "Spira AP, et al. Sleep-disordered breathing and cognition in older women. J Am Geriatr Soc",
+        "dct:bibliographicCitation": "Spira AP, et al. Sleep-disordered breathing and cognition in older women. J Am Geriatr Soc. 2008 Jan;56(1):45-50.",
         "prism:doi": "10.1111/j.1532-5415.2007.01506.x",
         "fabio:hasPubMedId": "18047498",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18047498",
         "dct:identifier": "18047498",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -1598,7 +1588,7 @@
     "dct:description": "MrOS is an ancillary study of the parent Osteoporotic Fractures in Men Study. Between 2000 and 2002, 5,994 community-dwelling men 65 years or older were enrolled at 6 clinical centers in a baseline examination. Between December 2003 and March 2005, 3,135 of these participants were recruited to the Sleep Study when they underwent full unattended polysomnography and 3 to 5-day actigraphy studies. The objectives of the Sleep Study are to understand the relationship between sleep disorders and falls, fractures, mortality, and vascular disease.",
     "dct:format": "Unknown",
     "dct:issued": "June 24, 2015",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/mros",
     "dct:title": "MrOS Sleep Study - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -1608,9 +1598,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1698,7 +1688,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "1.18 TB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/mros/files",
@@ -1712,67 +1701,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Associations between sleep architecture and sleep-disordered breathing and cognition in older community-dwelling men: the Osteoporotic Fractures in Men Sleep Study.",
-        "dct:bibliographicCitation": "Blackwell T, et al. Associations between sleep architecture and sleep-disordered breathing and cognition in older community-dwelling men: the Osteoporotic Fractures in Men Sleep Study. J Am Geriatr Soc",
+        "dct:bibliographicCitation": "Blackwell T, et al. Associations between sleep architecture and sleep-disordered breathing and cognition in older community-dwelling men: the Osteoporotic Fractures in Men Sleep Study. J Am Geriatr Soc. 2011 Dec;59(12):2217-25.",
         "prism:doi": "10.1111/j.1532-5415.2011.03731.x",
         "fabio:hasPubMedId": "22188071",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22188071",
         "dct:identifier": "22188071",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -1780,7 +1769,7 @@
     "dct:description": "The\u00a0Cleveland Children's Sleep and Health Study (CCSHS) is one of the largest population-based pediatric cohorts studied with objective sleep studies, and probably one with the largest minority representation. The cohort includes 907 children, studied at ages 8-11 years with in-home sleep studies, acoustic reflectometry, anthropometry, spirometry, blood pressure (BP), and neuropsychology (NP) and behavioral assessments. The cohort is a stratified random sample of full-term (FT) and preterm (PT) children, born between 1988-1993, identified from the birth records of 3 Cleveland area hospitals.",
     "dct:format": "Unknown",
     "dct:issued": "September 17, 2015",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/ccshs",
     "dct:title": "Cleveland Children's Sleep and Health Study - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -1790,9 +1779,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1840,7 +1829,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "214 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/ccshs/files",
@@ -1854,67 +1842,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity.",
-        "dct:bibliographicCitation": "Rosen CL, et al. Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity. J Pediatr",
+        "dct:bibliographicCitation": "Rosen CL, et al. Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity. J Pediatr. 2003 Apr;142(4):383-9.",
         "prism:doi": "10.1067/mpd.2003.28",
         "fabio:hasPubMedId": "12712055",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12712055",
         "dct:identifier": "12712055",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -1922,7 +1910,7 @@
     "dct:description": "The Hispanic Community Health Study / Study of Latinos (HCHS/SOL) is a multi-center epidemiologic study in Hispanic/Latino populations to determine the role of acculturation in the prevalence and development of disease, and to identify risk factors playing a protective or harmful role in Hispanics/Latinos. The study is sponsored by the National Heart, Lung, and Blood Institute (NHLBI) and six other institutes, centers, and offices of the National Institutes of Health (NIH) contributed to the first phase of the project.",
     "dct:format": "Unknown",
     "dct:issued": "December 16, 2015",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/hchs",
     "dct:title": "Hispanic Community Health Study / Study of Latinos - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -1932,9 +1920,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2046,7 +2034,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "32.1 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/hchs/files",
@@ -2060,101 +2047,101 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Sleep-disordered breathing in Hispanic/Latino individuals of diverse backgrounds. The Hispanic Community Health Study/Study of Latinos.",
-        "dct:bibliographicCitation": "Redline S, et al. Sleep-disordered breathing in Hispanic/Latino individuals of diverse backgrounds. The Hispanic Community Health Study/Study of Latinos. Am J Respir Crit Care Med",
+        "dct:bibliographicCitation": "Redline S, et al. Sleep-disordered breathing in Hispanic/Latino individuals of diverse backgrounds. The Hispanic Community Health Study/Study of Latinos. Am J Respir Crit Care Med. 2014 Feb 1;189(3):335-44.",
         "prism:doi": "10.1164/rccm.201309-1735OC",
         "fabio:hasPubMedId": "24392863",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24392863",
         "dct:identifier": "24392863",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The Hispanic Community Health Study/Study of Latinos Sociocultural Ancillary Study: sample, design, and procedures.",
-        "dct:bibliographicCitation": "Gallo LC, et al. The Hispanic Community Health Study/Study of Latinos Sociocultural Ancillary Study: sample, design, and procedures. Ethn Dis",
+        "dct:bibliographicCitation": "Gallo LC, et al. The Hispanic Community Health Study/Study of Latinos Sociocultural Ancillary Study: sample, design, and procedures. Ethn Dis. 2014 Winter;24(1):77-83.",
         "fabio:hasPubMedId": "24620452",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24620452",
         "dct:identifier": "24620452",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68056044",
+        "dct:identifier": "D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
     "@type": "datmm:Dataset",
     "dct:description": "The Honolulu-Asia Aging Study of Sleep Apnea (HAASSA) was conducted to assess sleep-disordered breathing (SDB) in an elderly cohort of Japanese-American men under surveillance for Alzheimer disease (AD) and other dementias. Subjects had unattended overnight polysomnography (PSG) conducted in their home according to criteria established previously for the large multicenter Sleep Heart Health Study (SHHS). The protocol (conducted in 1999-2000) was added to the Honolulu-Asia Aging Study (HAAS), a longitudinal study of AD and other aspects of brain aging among surviving participants of the Honolulu Heart Program (HHP). More than 700 men aged 79 years and older were screened for dementia and received overnight PSG during the course of the 1999-2000 examination. These cross-sectional data were used to assess possible relationships between SDB and cognitive performance in late life.",
     "dct:format": "Unknown",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/haassa",
     "dct:title": "Honolulu-Asia Aging Study of Sleep Apnea - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2164,9 +2151,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2206,7 +2193,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "38.7 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/haassa/files",
@@ -2220,67 +2206,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Sleep-disordered breathing and cognitive impairment in elderly Japanese-American men.",
-        "dct:bibliographicCitation": "Foley DJ, et al. Sleep-disordered breathing and cognitive impairment in elderly Japanese-American men. Sleep",
+        "dct:bibliographicCitation": "Foley DJ, et al. Sleep-disordered breathing and cognitive impairment in elderly Japanese-American men. Sleep. 2003 Aug 1;26(5):596-9.",
         "prism:doi": "10.1093/sleep/26.5.596",
         "fabio:hasPubMedId": "12938814",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12938814",
         "dct:identifier": "12938814",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -2288,7 +2274,7 @@
     "dct:description": "Multi-Ethnic Study of Atherosclerosis (MESA) is an NHLBI-sponsored 6-center collaborative longitudinal investigation of factors associated with the development of subclinical cardiovascular disease and the progression of subclinical to clinical cardiovascular disease in 6,814 black, white, Hispanic, and Chinese-American men and women initially ages 45-84 at baseline in 2000-2002. There have been four follow-up exams to date, in the years 2003-2004, 2004-2005, 2005-2007, and 2010-2011. Between 2010-2012, 2,237 participants also were enrolled in a Sleep Exam (MESA Sleep) which included full overnight unattended polysomnography, 7-day wrist-worn actigraphy, and a sleep questionnaire. The objectives of the sleep study are to understand how variations in sleep and sleep disorders vary across gender and ethnic groups and relate to measures of subclinical atherosclerosis.",
     "dct:format": "Unknown",
     "dct:issued": "September 23, 2016",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/mesa",
     "dct:title": "Multi-Ethnic Study of Atherosclerosis - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2298,9 +2284,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2460,7 +2446,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "385 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/mesa/files",
@@ -2474,85 +2459,85 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Racial/Ethnic Differences in Sleep Disturbances: The Multi-Ethnic Study of Atherosclerosis (MESA).",
-        "dct:bibliographicCitation": "Chen X, et al. Racial/Ethnic Differences in Sleep Disturbances: The Multi-Ethnic Study of Atherosclerosis (MESA). Sleep",
+        "dct:bibliographicCitation": "Chen X, et al. Racial/Ethnic Differences in Sleep Disturbances: The Multi-Ethnic Study of Atherosclerosis (MESA). Sleep. 2015 Jun 1;38(6):877-88.",
         "prism:doi": "10.5665/sleep.4732",
         "fabio:hasPubMedId": "25409106",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25409106",
         "dct:identifier": "25409106",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68056044",
+        "dct:identifier": "D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
     "@type": "datmm:Dataset",
     "dct:description": "The Learn dataset is provided solely for education purposes.\nTutorials on this site make use of\nthe data to help explain how to extract and manipulate file types available\nacross the NSRR.",
     "dct:format": "Unknown",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/learn",
     "dct:title": "Learn - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2562,16 +2547,15 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "230 MB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/learn/files",
@@ -2584,31 +2568,31 @@
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -2616,7 +2600,7 @@
     "dct:description": "The Home Positive Airway Pressure (HomePAP) study was a multisite, nonblinded, randomized controlled trial that enrolled 373 patients at seven American Academy of Sleep Medicine (AASM)-accredited academic sleep centers with a high pretest probability of moderate to severe OSA (based on a clinical algorithm). Eligible subjects were evaluated in clinic and randomized to one of two management pathways: 1) laboratory-based and 2) home-based. All subjects with an AHI \u2265 15 who underwent a successful CPAP titration study were offered CPAP therapy. Subjects were re-evaluated in clinic after 1- and 3-month follow-up periods.",
     "dct:format": "Unknown",
     "dct:issued": "August 8, 2017",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/homepap",
     "dct:title": "Home Positive Airway Pressure - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2626,9 +2610,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2652,7 +2636,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "84.6 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/homepap/files",
@@ -2666,67 +2649,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "A multisite randomized trial of portable sleep studies and positive airway pressure autotitration versus laboratory-based polysomnography for the diagnosis and treatment of obstructive sleep apnea: the HomePAP study.",
-        "dct:bibliographicCitation": "Rosen CL, et al. A multisite randomized trial of portable sleep studies and positive airway pressure autotitration versus laboratory-based polysomnography for the diagnosis and treatment of obstructive sleep apnea: the HomePAP study. Sleep",
+        "dct:bibliographicCitation": "Rosen CL, et al. A multisite randomized trial of portable sleep studies and positive airway pressure autotitration versus laboratory-based polysomnography for the diagnosis and treatment of obstructive sleep apnea: the HomePAP study. Sleep. 2012 Jun 1;35(6):757-67.",
         "prism:doi": "10.5665/sleep.1870",
         "fabio:hasPubMedId": "22654195",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22654195",
         "dct:identifier": "22654195",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -2734,7 +2717,7 @@
     "dct:description": "The Best Apnea Interventions for Research (BestAIR) study aimed to randomize approximately 180 patients with sleep apnea who had either established CVD or at least three CVD risk factors into a 12-mo, four-arm intervention study. All arms included nightly use of nasal dilator strips and conservative medical therapy (CMT) defined as education on healthy sleep and lifestyle. The two active arms were: (1) active CPAP delivered using standard support from a trained sleep technician; and (2) active CPAP enhanced by a behavioral promotion intervention delivered by a behavioral therapist. The two control arms were: (1) sham-CPAP; and (2) CMT alone. The primary physiological outcome was change in mean 24-h systolic blood pressure. Process measures were recruitment yields, retention rates, and CPAP adherence levels.",
     "dct:format": "Unknown",
     "dct:issued": "January 14, 2014",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/bestair",
     "dct:title": "Best Apnea Interventions in Research - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2744,9 +2727,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2778,7 +2761,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "32.2 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/bestair/files",
@@ -2792,67 +2774,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "Challenges in recruitment to a randomized controlled study of cardiovascular disease reduction in sleep apnea: an analysis of alternative strategies.",
-        "dct:bibliographicCitation": "Gleason K, et al. Challenges in recruitment to a randomized controlled study of cardiovascular disease reduction in sleep apnea: an analysis of alternative strategies. Sleep",
+        "dct:bibliographicCitation": "Gleason K, et al. Challenges in recruitment to a randomized controlled study of cardiovascular disease reduction in sleep apnea: an analysis of alternative strategies. Sleep. 2014 Dec 1;37(12):2035-8.",
         "prism:doi": "10.5665/sleep.4266",
         "fabio:hasPubMedId": "25325506",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25325506",
         "dct:identifier": "25325506",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -2860,7 +2842,7 @@
     "dct:description": "The Apnea, Bariatric surgery, and CPAP (ABC) study aimed to assess the role of bariatric (weight loss) surgery as compared to continuous positive airway pressure (CPAP) therapy plus weight loss counseling for the treatment of patients with class II obesity and those who have severe obstructive sleep apnea (OSA).",
     "dct:format": "Unknown",
     "dct:issued": "July 11, 2018",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/abc",
     "dct:title": "Apnea, Bariatric surgery, and CPAP study - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2870,9 +2852,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2912,7 +2894,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "45.4 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/abc/files",
@@ -2926,67 +2907,67 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       },
       {
         "@type": "datmm:Documentation",
         "rdf:type": "Letter",
         "dct:title": "Gastric Banding Surgery versus Continuous Positive Airway Pressure for Obstructive Sleep Apnea: A Randomized Controlled Trial.",
-        "dct:bibliographicCitation": "Bakker JP, et al. Gastric Banding Surgery versus Continuous Positive Airway Pressure for Obstructive Sleep Apnea: A Randomized Controlled Trial. Am J Respir Crit Care Med",
+        "dct:bibliographicCitation": "Bakker JP, et al. Gastric Banding Surgery versus Continuous Positive Airway Pressure for Obstructive Sleep Apnea: A Randomized Controlled Trial. Am J Respir Crit Care Med.",
         "prism:doi": "10.1164/rccm.201708-1637LE",
         "fabio:hasPubMedId": "29035093",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29035093",
         "dct:identifier": "29035093",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -2994,7 +2975,7 @@
     "dct:description": "The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist for an entire year. The single subject was a 62 year-old male who wore the device between June 2016 and June 2017.",
     "dct:format": "Unknown",
     "dct:issued": "August 8, 2018",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/oya",
     "dct:title": "One Year of Actigraphy - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -3004,9 +2985,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3030,7 +3011,6 @@
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "766 MB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/oya/files",
@@ -3044,56 +3024,56 @@
         "@type": "datmm:Documentation",
         "rdf:type": "Journal Article",
         "dct:title": "The National Sleep Research Resource: towards a sleep data commons.",
-        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc",
+        "dct:bibliographicCitation": "Zhang GQ, et al. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358.",
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
         "dct:identifier": "29860441",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-          "datmm": "http://schema.org/",
           "fabio": "http://purl.org/spar/fabio/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/"
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "dct": "http://purl.org/dc/terms/",
+          "datmm": "http://schema.org/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68056044",
+        "dct:identifier": "D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
     "@type": "datmm:Dataset",
     "dct:description": "Drs. Roy Cox and Juergen Fell recently published an excellent review/tutorial manuscript in Sleep Medicine Reviews, providing a useful overview of some common approaches -- and associated pitfalls -- for the analysis of sleep EEG data. Of note, the authors also provided open data and Matlab code, thereby enabling readers to reproduce and better understand the methods. Drs. Cox and Shaun Purcell co-authored a vignette in which they use Luna to reproduce key figures from the manuscript.",
     "dct:format": "Unknown",
-    "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap",
+    "foaf:homepage": "https://sleepdata.org/datasets/coxfell2020",
     "dct:title": "Cox & Fell (2020) Sleep Medicine Reviews - Sleep Data - National Sleep Research Resource - NSRR",
     "dct:language": "English",
     "bf:contribution": [],
@@ -3103,16 +3083,15 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
     "schema:distribution": [
       {
         "@type": "schema:DataDownload",
-        "schema:contentSize": "3.87 GB",
         "schema:encodingFormat": "various",
         "schema:inLanguage": "en",
         "schema:url": "https://sleepdata.org/datasets/coxfell2020/files",
@@ -3125,31 +3104,31 @@
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68006801",
+        "dct:identifier": "D006801",
         "skos:inScheme": "MeSH",
-        "rdfs:label": "homo sapiens",
+        "rdfs:label": "humans",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "68017286",
+        "dct:identifier": "D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   }
 ]
