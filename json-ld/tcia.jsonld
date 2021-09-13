@@ -14,9 +14,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -42,14 +42,13 @@
         "prism:doi": "10.1002/mp.12059",
         "fabio:hasPubMedId": "27991677",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/27991677",
-        "dct:identifier": "27991677",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       },
       {
@@ -60,14 +59,13 @@
         "prism:doi": "10.1016/j.ijrobp.2012.12.023",
         "fabio:hasPubMedId": "23462422",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23462422",
-        "dct:identifier": "23462422",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       },
       {
@@ -78,89 +76,88 @@
         "prism:doi": "10.1016/j.ijrobp.2011.10.051",
         "fabio:hasPubMedId": "22391105",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22391105",
-        "dct:identifier": "22391105",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D054893",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D054893",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Cone-Beam Computed Tomography",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D056973",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D056973",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Four-Dimensional Computed Tomography",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D061089",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D061089",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Radiotherapy, Image-Guided",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D000465",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D000465",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Algorithms",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D057918",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D057918",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Fiducial Markers",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D009068",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D009068",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Movement",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -178,9 +175,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -206,34 +203,33 @@
         "prism:doi": "10.1002/mp.13942",
         "fabio:hasPubMedId": "32418343",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32418343",
-        "dct:identifier": "32418343",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008279",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008279",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Magnetic Resonance Imaging",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -251,9 +247,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -267,34 +263,33 @@
         "prism:doi": "10.1002/jmri.26539",
         "fabio:hasPubMedId": "30350329",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30350329",
-        "dct:identifier": "30350329",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D038524",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D038524",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Diffusion Magnetic Resonance Imaging",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -312,9 +307,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -328,34 +323,33 @@
         "prism:doi": "10.1056/NEJMoa065447",
         "fabio:hasPubMedId": "17392300",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17392300",
-        "dct:identifier": "17392300",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008279",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008279",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Magnetic Resonance Imaging",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -373,9 +367,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -389,34 +383,33 @@
         "prism:doi": "10.1093/neuonc/not049",
         "fabio:hasPubMedId": "23788270",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23788270",
-        "dct:identifier": "23788270",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D003287",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D003287",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Contrast Media",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -434,9 +427,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -462,45 +455,44 @@
         "prism:doi": "10.2967/jnumed.115.160663",
         "fabio:hasPubMedId": "26359256",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26359256",
-        "dct:identifier": "26359256",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D015224",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D015224",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Dideoxynucleosides",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D019275",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D019275",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Radiopharmaceuticals",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -518,9 +510,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -546,14 +538,13 @@
         "prism:doi": "10.1158/1078-0432.CCR-15-2529",
         "fabio:hasPubMedId": "27185374",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/27185374",
-        "dct:identifier": "27185374",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       },
       {
@@ -564,67 +555,66 @@
         "prism:doi": "10.1371/journal.pone.0198548",
         "fabio:hasPubMedId": "29902200",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29902200",
-        "dct:identifier": "29902200",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008279",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008279",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Magnetic Resonance Imaging",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D049268",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D049268",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Positron-Emission Tomography",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D066244",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D066244",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Proton Magnetic Resonance Spectroscopy",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D000072258",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D000072258",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Tumor Hypoxia",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -642,9 +632,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -658,34 +648,33 @@
         "prism:doi": "10.1200/JCO.18.01182",
         "fabio:hasPubMedId": "30768363",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30768363",
-        "dct:identifier": "30768363",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D000072078",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D000072078",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Positron Emission Tomography Computed Tomography",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -703,9 +692,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -731,56 +720,55 @@
         "prism:doi": "10.1200/JCO.2012.47.5947",
         "fabio:hasPubMedId": "24043740",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24043740",
-        "dct:identifier": "24043740",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "dct": "http://purl.org/dc/terms/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D019788",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D019788",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Fluorodeoxyglucose F18",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D049268",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D049268",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Positron-Emission Tomography",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D019275",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D019275",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Radiopharmaceuticals",
         "@context": {
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#"
+          "skos": "http://www.w3.org/2004/02/skos/core#",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   },
   {
@@ -798,9 +786,9 @@
       "foaf:homepage": "https://www.cancerimagingarchive.net",
       "dct:title": "The Cancer Imaging Archive",
       "@context": {
-        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "datmm": "http://schema.org/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -808,9 +796,9 @@
     "dct:isReferencedBy": [],
     "dct:subject": [],
     "@context": {
-      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "datmm": "http://schema.org/"
     }
   }
 ]

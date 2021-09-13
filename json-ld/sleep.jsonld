@@ -14,9 +14,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -57,21 +57,20 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -82,7 +81,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -93,7 +92,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D056044",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
@@ -104,9 +103,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -124,9 +123,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -175,21 +174,20 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -200,7 +198,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -211,9 +209,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -231,9 +229,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -306,14 +304,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -323,20 +320,19 @@
         "dct:bibliographicCitation": "Young T, et al. Burden of sleep apnea: rationale, design, and major findings of the Wisconsin Sleep Cohort study. WMJ. 2009 Aug;108(5):246-9.",
         "fabio:hasPubMedId": "19743755",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19743755",
-        "dct:identifier": "19743755",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "dct": "http://purl.org/dc/terms/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "datmm": "http://schema.org/",
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -347,7 +343,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -358,9 +354,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -378,9 +374,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -437,14 +433,13 @@
         "prism:doi": "10.1038/s41467-018-07229-3",
         "fabio:hasPubMedId": "30523329",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30523329",
-        "dct:identifier": "30523329",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -455,14 +450,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -473,21 +467,20 @@
         "prism:doi": "10.1038/s41467-018-07229-3",
         "fabio:hasPubMedId": "30523329",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30523329",
-        "dct:identifier": "30523329",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -498,7 +491,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -509,9 +502,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -528,9 +521,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -643,14 +636,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -661,21 +653,20 @@
         "prism:doi": "10.1016/j.ajog.2015.01.021",
         "fabio:hasPubMedId": "25746730",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25746730",
-        "dct:identifier": "25746730",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -686,7 +677,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -697,9 +688,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -717,9 +708,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -832,14 +823,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -849,20 +839,19 @@
         "dct:bibliographicCitation": "Quan SF, et al. The Sleep Heart Health Study: design, rationale, and methods. Sleep. 1997 Dec;20(12):1077-85.",
         "fabio:hasPubMedId": "9493915",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9493915",
-        "dct:identifier": "9493915",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "dct": "http://purl.org/dc/terms/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "datmm": "http://schema.org/",
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -873,7 +862,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -884,9 +873,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -904,9 +893,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -979,14 +968,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -997,21 +985,20 @@
         "prism:doi": "10.1056/NEJMoa1215881",
         "fabio:hasPubMedId": "23692173",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23692173",
-        "dct:identifier": "23692173",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -1022,7 +1009,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -1033,9 +1020,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -1053,9 +1040,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1128,14 +1115,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -1146,21 +1132,20 @@
         "prism:doi": "10.1056/NEJMoa1306766",
         "fabio:hasPubMedId": "24918372",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24918372",
-        "dct:identifier": "24918372",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -1171,7 +1156,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -1182,9 +1167,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -1202,9 +1187,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1277,14 +1262,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -1295,14 +1279,13 @@
         "prism:doi": "10.1164/ajrccm/151.3_Pt_1.682",
         "fabio:hasPubMedId": "7881656",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/7881656",
-        "dct:identifier": "7881656",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -1313,21 +1296,20 @@
         "prism:doi": "10.1164/ajrccm.159.5.9809079",
         "fabio:hasPubMedId": "10228121",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/10228121",
-        "dct:identifier": "10228121",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -1338,7 +1320,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -1349,9 +1331,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -1369,9 +1351,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1524,14 +1506,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -1542,21 +1523,20 @@
         "prism:doi": "10.1111/j.1532-5415.2007.01506.x",
         "fabio:hasPubMedId": "18047498",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18047498",
-        "dct:identifier": "18047498",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -1567,7 +1547,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -1578,9 +1558,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -1598,9 +1578,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1705,14 +1685,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -1723,21 +1702,20 @@
         "prism:doi": "10.1111/j.1532-5415.2011.03731.x",
         "fabio:hasPubMedId": "22188071",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22188071",
-        "dct:identifier": "22188071",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -1748,7 +1726,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -1759,9 +1737,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -1779,9 +1757,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1846,14 +1824,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -1864,21 +1841,20 @@
         "prism:doi": "10.1067/mpd.2003.28",
         "fabio:hasPubMedId": "12712055",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12712055",
-        "dct:identifier": "12712055",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -1889,7 +1865,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -1900,9 +1876,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -1920,9 +1896,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2051,14 +2027,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2069,14 +2044,13 @@
         "prism:doi": "10.1164/rccm.201309-1735OC",
         "fabio:hasPubMedId": "24392863",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24392863",
-        "dct:identifier": "24392863",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2086,20 +2060,19 @@
         "dct:bibliographicCitation": "Gallo LC, et al. The Hispanic Community Health Study/Study of Latinos Sociocultural Ancillary Study: sample, design, and procedures. Ethn Dis. 2014 Winter;24(1):77-83.",
         "fabio:hasPubMedId": "24620452",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24620452",
-        "dct:identifier": "24620452",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "dct": "http://purl.org/dc/terms/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "datmm": "http://schema.org/",
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2110,7 +2083,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2121,7 +2094,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D056044",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
@@ -2132,9 +2105,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2151,9 +2124,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2210,14 +2183,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2228,21 +2200,20 @@
         "prism:doi": "10.1093/sleep/26.5.596",
         "fabio:hasPubMedId": "12938814",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12938814",
-        "dct:identifier": "12938814",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2253,7 +2224,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2264,9 +2235,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2284,9 +2255,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2463,14 +2434,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2481,21 +2451,20 @@
         "prism:doi": "10.5665/sleep.4732",
         "fabio:hasPubMedId": "25409106",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25409106",
-        "dct:identifier": "25409106",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2506,7 +2475,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2517,7 +2486,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D056044",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
@@ -2528,9 +2497,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2547,9 +2516,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -2568,7 +2537,7 @@
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2579,7 +2548,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2590,9 +2559,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2610,9 +2579,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2653,14 +2622,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2671,21 +2639,20 @@
         "prism:doi": "10.5665/sleep.1870",
         "fabio:hasPubMedId": "22654195",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22654195",
-        "dct:identifier": "22654195",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2696,7 +2663,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2707,9 +2674,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2727,9 +2694,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2778,14 +2745,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2796,21 +2762,20 @@
         "prism:doi": "10.5665/sleep.4266",
         "fabio:hasPubMedId": "25325506",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25325506",
-        "dct:identifier": "25325506",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2821,7 +2786,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2832,9 +2797,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2852,9 +2817,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2911,14 +2876,13 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       },
       {
@@ -2929,21 +2893,20 @@
         "prism:doi": "10.1164/rccm.201708-1637LE",
         "fabio:hasPubMedId": "29035093",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29035093",
-        "dct:identifier": "29035093",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -2954,7 +2917,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -2965,9 +2928,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -2985,9 +2948,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3028,21 +2991,20 @@
         "prism:doi": "10.1093/jamia/ocy064",
         "fabio:hasPubMedId": "29860441",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29860441",
-        "dct:identifier": "29860441",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "dct": "http://purl.org/dc/terms/",
           "datmm": "http://schema.org/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -3053,7 +3015,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D056044",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D056044",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Actigraphy",
         "@context": {
@@ -3064,9 +3026,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -3083,9 +3045,9 @@
       "foaf:homepage": "https://sleepdata.org",
       "dct:title": "National Sleep Research Resource",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
-        "datmm": "http://schema.org/"
+        "datmm": "http://schema.org/",
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -3104,7 +3066,7 @@
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D006801",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D006801",
         "skos:inScheme": "MeSH",
         "rdfs:label": "humans",
         "@context": {
@@ -3115,7 +3077,7 @@
       },
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D017286",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D017286",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Polysomnography",
         "@context": {
@@ -3126,9 +3088,9 @@
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
-      "datmm": "http://schema.org/"
+      "datmm": "http://schema.org/",
+      "dct": "http://purl.org/dc/terms/"
     }
   }
 ]

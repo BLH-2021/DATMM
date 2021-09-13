@@ -30,9 +30,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -56,20 +56,20 @@
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D000086382",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D000086382",
         "skos:inScheme": "MeSH",
         "rdfs:label": "COVID-19",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -103,9 +103,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -134,34 +134,33 @@
         "prism:doi": "10.1093/cid/ciz925",
         "fabio:hasPubMedId": "31555824",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31555824",
-        "dct:identifier": "31555824",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008288",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008288",
         "skos:inScheme": "MeSH",
         "rdfs:label": "malaria",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -195,9 +194,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -229,9 +228,9 @@
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -265,9 +264,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -296,14 +295,13 @@
         "prism:doi": "10.4269/ajtmh.17-0343",
         "fabio:hasPubMedId": "29260650",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29260650",
-        "dct:identifier": "29260650",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -314,34 +312,33 @@
         "prism:doi": "10.1038/s41590-021-00911-7",
         "fabio:hasPubMedId": "33888898",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33888898",
-        "dct:identifier": "33888898",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008288",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008288",
         "skos:inScheme": "MeSH",
         "rdfs:label": "malaria",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -375,9 +372,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -406,14 +403,13 @@
         "prism:doi": "10.1038/s41597-019-0213-4",
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
-        "dct:identifier": "31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -428,9 +424,9 @@
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -464,9 +460,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -495,14 +491,13 @@
         "prism:doi": "10.4161/hv.6.1.10396",
         "fabio:hasPubMedId": "19946222",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19946222",
-        "dct:identifier": "19946222",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -513,14 +508,13 @@
         "prism:doi": "10.1126/science.1241800",
         "fabio:hasPubMedId": "23929949",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23929949",
-        "dct:identifier": "23929949",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -531,34 +525,33 @@
         "prism:doi": "10.1186/s12936-015-0628-0",
         "fabio:hasPubMedId": "25889522",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25889522",
-        "dct:identifier": "25889522",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008288",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008288",
         "skos:inScheme": "MeSH",
         "rdfs:label": "malaria",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -592,9 +585,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -623,14 +616,13 @@
         "prism:doi": "10.1186/s13073-018-0528-3",
         "fabio:hasPubMedId": "29558968",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29558968",
-        "dct:identifier": "29558968",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -645,9 +637,9 @@
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -681,9 +673,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -712,34 +704,33 @@
         "prism:doi": "10.1016/j.jacc.2019.04.056",
         "fabio:hasPubMedId": "31272550",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31272550",
-        "dct:identifier": "31272550",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D016027",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D016027",
         "skos:inScheme": "MeSH",
         "rdfs:label": "Heart Transplantation",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -773,9 +764,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -804,14 +795,13 @@
         "prism:doi": "10.4161/hv.6.1.10396",
         "fabio:hasPubMedId": "19946222",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19946222",
-        "dct:identifier": "19946222",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -822,14 +812,13 @@
         "prism:doi": "10.1126/science.1241800",
         "fabio:hasPubMedId": "23929949",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23929949",
-        "dct:identifier": "23929949",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -840,34 +829,33 @@
         "prism:doi": "10.1186/s12936-015-0628-0",
         "fabio:hasPubMedId": "25889522",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25889522",
-        "dct:identifier": "25889522",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "dct:subject": [
       {
         "@type": "skos:Concept",
-        "dct:identifier": "D008288",
+        "dct:identifier": "http://id.nlm.nih.gov/mesh/D008288",
         "skos:inScheme": "MeSH",
         "rdfs:label": "malaria",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   },
   {
@@ -901,9 +889,9 @@
       "foaf:homepage": "https://www.immport.org",
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
         "datmm": "http://schema.org/",
-        "dct": "http://purl.org/dc/terms/",
-        "foaf": "http://xmlns.com/foaf/0.1/"
+        "dct": "http://purl.org/dc/terms/"
       }
     },
     "frapo:isSupportedBy": [
@@ -932,14 +920,13 @@
         "prism:doi": "10.1093/infdis/jiu573",
         "fabio:hasPubMedId": "25367297",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25367297",
-        "dct:identifier": "25367297",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -954,9 +941,9 @@
       }
     ],
     "@context": {
+      "foaf": "http://xmlns.com/foaf/0.1/",
       "datmm": "http://schema.org/",
-      "dct": "http://purl.org/dc/terms/",
-      "foaf": "http://xmlns.com/foaf/0.1/"
+      "dct": "http://purl.org/dc/terms/"
     }
   }
 ]

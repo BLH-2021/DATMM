@@ -39,13 +39,12 @@
         "prism:doi": "10.1016/j.gene.2004.05.020",
         "fabio:hasPubMedId": "15302412",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15302412",
-        "dct:identifier": "15302412",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -58,8 +57,8 @@
         "rdfs:label": "Acinonyx jubatus",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -109,13 +108,12 @@
         "prism:doi": "10.1073/pnas.1613870114",
         "fabio:hasPubMedId": "28096377",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/28096377",
-        "dct:identifier": "28096377",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -127,13 +125,12 @@
         "prism:doi": "10.1186/s13059-019-1889-7",
         "fabio:hasPubMedId": "31810476",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31810476",
-        "dct:identifier": "31810476",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -145,13 +142,12 @@
         "prism:doi": "10.1016/j.gene.2007.04.009",
         "fabio:hasPubMedId": "17499457",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17499457",
-        "dct:identifier": "17499457",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -163,13 +159,12 @@
         "prism:doi": "10.1007/s00251-008-0281-7",
         "fabio:hasPubMedId": "18292994",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18292994",
-        "dct:identifier": "18292994",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -182,8 +177,8 @@
         "rdfs:label": "Ailuropoda melanoleuca",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -233,13 +228,12 @@
         "prism:doi": "10.1002/ajpa.21567",
         "fabio:hasPubMedId": "21826638",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/21826638",
-        "dct:identifier": "21826638",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -251,13 +245,12 @@
         "prism:doi": "10.1093/nar/25.5.955",
         "fabio:hasPubMedId": "9023104",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9023104",
-        "dct:identifier": "9023104",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -269,13 +262,12 @@
         "prism:doi": "10.1007/s00251-004-0751-5",
         "fabio:hasPubMedId": "15654599",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15654599",
-        "dct:identifier": "15654599",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -287,13 +279,12 @@
         "prism:doi": "10.1007/s00251-004-0758-y",
         "fabio:hasPubMedId": "15711805",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15711805",
-        "dct:identifier": "15711805",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -305,13 +296,12 @@
         "prism:doi": "10.1128/JVI.00112-09",
         "fabio:hasPubMedId": "19553332",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19553332",
-        "dct:identifier": "19553332",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -323,13 +313,12 @@
         "prism:doi": "10.4049/jimmunol.167.11.6421",
         "fabio:hasPubMedId": "11714808",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11714808",
-        "dct:identifier": "11714808",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -342,8 +331,8 @@
         "rdfs:label": "Aotus nancymaae",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -393,13 +382,12 @@
         "prism:doi": "10.1111/mec.15542",
         "fabio:hasPubMedId": "32633855",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32633855",
-        "dct:identifier": "32633855",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -411,13 +399,12 @@
         "prism:doi": "10.1007/pl00006430",
         "fabio:hasPubMedId": "9847413",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9847413",
-        "dct:identifier": "9847413",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -429,13 +416,12 @@
         "prism:doi": "10.1128/JVI.00676-14",
         "fabio:hasPubMedId": "24899185",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24899185",
-        "dct:identifier": "24899185",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -448,8 +434,8 @@
         "rdfs:label": "Artibeus jamaicensis",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -499,8 +485,8 @@
         "rdfs:label": "Arvicanthis niloticus",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -550,8 +536,8 @@
         "rdfs:label": "Arvicola amphibius",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -601,13 +587,12 @@
         "prism:doi": "10.1016/j.gene.2004.02.010",
         "fabio:hasPubMedId": "15177677",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15177677",
-        "dct:identifier": "15177677",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -619,13 +604,12 @@
         "prism:doi": "10.1093/nar/25.5.955",
         "fabio:hasPubMedId": "9023104",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9023104",
-        "dct:identifier": "9023104",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -637,13 +621,12 @@
         "prism:doi": "10.1038/ng.2835",
         "fabio:hasPubMedId": "24270359",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24270359",
-        "dct:identifier": "24270359",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -656,8 +639,8 @@
         "rdfs:label": "Balaenoptera acutorostrata",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -707,13 +690,12 @@
         "prism:doi": "10.1007/BF00178861",
         "fabio:hasPubMedId": "8308901",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/8308901",
-        "dct:identifier": "8308901",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -725,13 +707,12 @@
         "prism:doi": "10.1093/oxfordjournals.molbev.a040061",
         "fabio:hasPubMedId": "8412655",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/8412655",
-        "dct:identifier": "8412655",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -743,13 +724,12 @@
         "prism:doi": "10.1007/s00239-003-0001-8",
         "fabio:hasPubMedId": "15008398",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15008398",
-        "dct:identifier": "15008398",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -761,13 +741,12 @@
         "prism:doi": "10.1016/j.gene.2004.07.040",
         "fabio:hasPubMedId": "15475160",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15475160",
-        "dct:identifier": "15475160",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -780,8 +759,8 @@
         "rdfs:label": "Balaenoptera musculus",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -831,13 +810,12 @@
         "prism:doi": "10.1016/j.cub.2008.01.019",
         "fabio:hasPubMedId": "18302915",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18302915",
-        "dct:identifier": "18302915",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -849,13 +827,12 @@
         "prism:doi": "10.1093/nar/25.5.955",
         "fabio:hasPubMedId": "9023104",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9023104",
-        "dct:identifier": "9023104",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -868,8 +845,8 @@
         "rdfs:label": "Bison bison",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
@@ -919,13 +896,12 @@
         "prism:doi": "10.1093/nar/25.5.955",
         "fabio:hasPubMedId": "9023104",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/9023104",
-        "dct:identifier": "9023104",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -937,13 +913,12 @@
         "prism:doi": "10.1016/j.gene.2011.11.007",
         "fabio:hasPubMedId": "22134011",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22134011",
-        "dct:identifier": "22134011",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       },
@@ -955,13 +930,12 @@
         "prism:doi": "10.1093/jhered/esr153",
         "fabio:hasPubMedId": "22315242",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/22315242",
-        "dct:identifier": "22315242",
         "@context": {
-          "fabio": "http://purl.org/spar/fabio/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "foaf": "http://xmlns.com/foaf/0.1/",
           "dct": "http://purl.org/dc/terms/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "fabio": "http://purl.org/spar/fabio/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/"
         }
       }
@@ -974,8 +948,8 @@
         "rdfs:label": "Bos indicus",
         "@context": {
           "dct": "http://purl.org/dc/terms/",
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
