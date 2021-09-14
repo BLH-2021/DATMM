@@ -184,8 +184,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -225,14 +225,13 @@
         "prism:doi": "10.1016/s0197-2456(99)00031-8",
         "fabio:hasPubMedId": "10588299",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/10588299",
-        "dct:identifier": "10588299",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -243,14 +242,13 @@
         "prism:doi": "10.1093/jn/130.5.1516S",
         "fabio:hasPubMedId": "10801969",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/10801969",
-        "dct:identifier": "10801969",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -261,14 +259,13 @@
         "prism:doi": "10.1016/s0161-6420(00)00409-7",
         "fabio:hasPubMedId": "11097601",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11097601",
-        "dct:identifier": "11097601",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -279,14 +276,13 @@
         "prism:doi": "10.1016/s0002-9394(00)00732-7",
         "fabio:hasPubMedId": "11228291",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11228291",
-        "dct:identifier": "11228291",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -297,14 +293,13 @@
         "prism:doi": "10.1016/s0161-6420(01)00626-1",
         "fabio:hasPubMedId": "11470690",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11470690",
-        "dct:identifier": "11470690",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -315,14 +310,13 @@
         "prism:doi": "10.1016/s0002-9394(01)01218-1",
         "fabio:hasPubMedId": "11704028",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11704028",
-        "dct:identifier": "11704028",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -333,14 +327,13 @@
         "prism:doi": "10.1093/jn/132.4.697",
         "fabio:hasPubMedId": "11925463",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11925463",
-        "dct:identifier": "11925463",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -351,14 +344,13 @@
         "prism:doi": "10.1001/archopht.119.10.1417",
         "fabio:hasPubMedId": "11594942",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11594942",
-        "dct:identifier": "11594942",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -369,14 +361,13 @@
         "prism:doi": "10.1001/archopht.119.10.1439",
         "fabio:hasPubMedId": "11594943",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11594943",
-        "dct:identifier": "11594943",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -387,14 +378,13 @@
         "prism:doi": "10.1001/archopht.121.2.211",
         "fabio:hasPubMedId": "12583787",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12583787",
-        "dct:identifier": "12583787",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -405,14 +395,13 @@
         "prism:doi": "10.1001/archopht.121.11.1621",
         "fabio:hasPubMedId": "14609922",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/14609922",
-        "dct:identifier": "14609922",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -423,14 +412,13 @@
         "prism:doi": "10.1212/01.wnl.0000142969.19465.8f",
         "fabio:hasPubMedId": "15534261",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15534261",
-        "dct:identifier": "15534261",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -441,14 +429,13 @@
         "prism:doi": "10.1001/archopht.122.5.716",
         "fabio:hasPubMedId": "15136320",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15136320",
-        "dct:identifier": "15136320",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -459,14 +446,13 @@
         "prism:doi": "10.1001/archopht.123.9.1207",
         "fabio:hasPubMedId": "16157800",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16157800",
-        "dct:identifier": "16157800",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -477,14 +463,13 @@
         "prism:doi": "10.1080/09286580591003815",
         "fabio:hasPubMedId": "16033748",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16033748",
-        "dct:identifier": "16033748",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -495,14 +480,13 @@
         "prism:doi": "10.1001/archopht.124.4.537",
         "fabio:hasPubMedId": "16606880",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16606880",
-        "dct:identifier": "16606880",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -513,14 +497,13 @@
         "prism:doi": "10.1001/archopht.123.11.1484",
         "fabio:hasPubMedId": "16286610",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16286610",
-        "dct:identifier": "16286610",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -531,14 +514,13 @@
         "prism:doi": "10.1001/archopht.123.11.1570",
         "fabio:hasPubMedId": "16286620",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16286620",
-        "dct:identifier": "16286620",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -549,14 +531,13 @@
         "prism:doi": "10.1016/j.ophtha.2004.10.047",
         "fabio:hasPubMedId": "15808240",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15808240",
-        "dct:identifier": "15808240",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -567,14 +548,13 @@
         "prism:doi": "10.1126/science.1109557",
         "fabio:hasPubMedId": "15761122",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/15761122",
-        "dct:identifier": "15761122",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -585,14 +565,13 @@
         "prism:doi": "10.1001/archopht.125.5.671",
         "fabio:hasPubMedId": "17502507",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17502507",
-        "dct:identifier": "17502507",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -603,14 +582,13 @@
         "prism:doi": "10.1016/j.ophtha.2006.02.054",
         "fabio:hasPubMedId": "16877067",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16877067",
-        "dct:identifier": "16877067",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -621,14 +599,13 @@
         "prism:doi": "10.1001/archopht.125.9.1225",
         "fabio:hasPubMedId": "17846363",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17846363",
-        "dct:identifier": "17846363",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -639,14 +616,13 @@
         "prism:doi": "10.1001/archopht.126.9.1274",
         "fabio:hasPubMedId": "18779490",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18779490",
-        "dct:identifier": "18779490",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -657,14 +633,13 @@
         "prism:doi": "10.1016/j.ajo.2007.10.024",
         "fabio:hasPubMedId": "18201681",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18201681",
-        "dct:identifier": "18201681",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -675,14 +650,13 @@
         "prism:doi": "10.1001/archophthalmol.2008.518",
         "fabio:hasPubMedId": "19139352",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19139352",
-        "dct:identifier": "19139352",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -693,9 +667,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Macular Degeneration",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -704,15 +678,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Cataract",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -732,8 +706,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -757,9 +731,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Cardiovascular Diseases",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -768,9 +742,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Cardiovascular System",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -779,9 +753,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Dementia",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -790,9 +764,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Diabetes Mellitus",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -801,9 +775,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Stroke",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -812,9 +786,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Cholesterol",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -823,17 +797,17 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Heart Diseases",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
         "rdfs:label": "Heart Failure, Congestive",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       },
       {
@@ -842,9 +816,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Hypertension",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -853,9 +827,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Intermittent Claudication",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -864,9 +838,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Myocardial Infarction",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -875,9 +849,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Obesity",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -886,9 +860,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Osteoporosis",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -897,9 +871,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Risk Factors",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -908,15 +882,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Smoking",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -965,8 +939,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -991,14 +965,13 @@
         "prism:doi": "10.1086/376562",
         "fabio:hasPubMedId": "12772088",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12772088",
-        "dct:identifier": "12772088",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -1009,14 +982,13 @@
         "prism:doi": "10.1016/j.biopsych.2003.08.001",
         "fabio:hasPubMedId": "14643094",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/14643094",
-        "dct:identifier": "14643094",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -1027,15 +999,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Bipolar Disorder",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -1084,8 +1056,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -1110,14 +1082,13 @@
         "prism:doi": "10.2337/db08-1514",
         "fabio:hasPubMedId": "19252134",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19252134",
-        "dct:identifier": "19252134",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -1128,21 +1099,20 @@
         "prism:doi": "10.1681/ASN.2005080822",
         "fabio:hasPubMedId": "16775037",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16775037",
-        "dct:identifier": "16775037",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "dct:subject": [],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -1219,8 +1189,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -1245,14 +1215,13 @@
         "prism:doi": "10.1038/ng1268",
         "fabio:hasPubMedId": "14608357",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/14608357",
-        "dct:identifier": "14608357",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -1263,14 +1232,13 @@
         "prism:doi": "10.1086/503821",
         "fabio:hasPubMedId": "16642438",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16642438",
-        "dct:identifier": "16642438",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -1281,14 +1249,13 @@
         "prism:doi": "10.1086/511051",
         "fabio:hasPubMedId": "17236132",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17236132",
-        "dct:identifier": "17236132",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -1299,23 +1266,23 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Psoriasis",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
         "@type": "skos:Concept",
         "rdfs:label": "Psoriatic Arthritis",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -1420,8 +1387,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -1446,14 +1413,13 @@
         "prism:doi": "10.1375/136905200320565300",
         "fabio:hasPubMedId": "11463154",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/11463154",
-        "dct:identifier": "11463154",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -1464,14 +1430,13 @@
         "prism:doi": "10.1038/sj.ejhg.5201979",
         "fabio:hasPubMedId": "18197199",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18197199",
-        "dct:identifier": "18197199",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -1480,14 +1445,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Major Depressive Disorder",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -1802,8 +1767,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -1997,14 +1962,13 @@
         "prism:doi": "10.1086/500272",
         "fabio:hasPubMedId": "16400611",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16400611",
-        "dct:identifier": "16400611",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2015,14 +1979,13 @@
         "prism:doi": "10.1038/ng2127",
         "fabio:hasPubMedId": "17728769",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17728769",
-        "dct:identifier": "17728769",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2033,14 +1996,13 @@
         "prism:doi": "10.1176/appi.ajp.2007.07101573",
         "fabio:hasPubMedId": "18198266",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18198266",
-        "dct:identifier": "18198266",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2051,14 +2013,13 @@
         "prism:doi": "10.1038/ng.201",
         "fabio:hasPubMedId": "18677311",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18677311",
-        "dct:identifier": "18677311",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2069,14 +2030,13 @@
         "prism:doi": "10.1038/mp.2008.108",
         "fabio:hasPubMedId": "18813210",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18813210",
-        "dct:identifier": "18813210",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2087,14 +2047,13 @@
         "prism:doi": "10.1038/nature08192",
         "fabio:hasPubMedId": "19571809",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19571809",
-        "dct:identifier": "19571809",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2105,14 +2064,13 @@
         "prism:doi": "10.1038/nature08185",
         "fabio:hasPubMedId": "19571811",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19571811",
-        "dct:identifier": "19571811",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2123,14 +2081,13 @@
         "prism:doi": "10.1038/nature08186",
         "fabio:hasPubMedId": "19571808",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19571808",
-        "dct:identifier": "19571808",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -2141,15 +2098,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Schizophrenia",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -2184,8 +2141,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -2210,14 +2167,13 @@
         "prism:doi": "10.1086/496902",
         "fabio:hasPubMedId": "16252231",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16252231",
-        "dct:identifier": "16252231",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2228,14 +2184,13 @@
         "prism:doi": "10.1371/journal.pone.0000196",
         "fabio:hasPubMedId": "17332845",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17332845",
-        "dct:identifier": "17332845",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2246,14 +2201,13 @@
         "prism:doi": "10.1371/journal.pgen.0030098",
         "fabio:hasPubMedId": "17571925",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/17571925",
-        "dct:identifier": "17571925",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -2264,15 +2218,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Parkinson Disease",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -2292,8 +2246,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -2318,14 +2272,13 @@
         "prism:doi": "10.1056/NEJM199309303291401",
         "fabio:hasPubMedId": "8366922",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/8366922",
-        "dct:identifier": "8366922",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2336,14 +2289,13 @@
         "prism:doi": "10.2337/diacare.18.3.361",
         "fabio:hasPubMedId": "7555480",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/7555480",
-        "dct:identifier": "7555480",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2354,14 +2306,13 @@
         "prism:doi": "10.2337/diacare.22.1.99",
         "fabio:hasPubMedId": "10333910",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/10333910",
-        "dct:identifier": "10333910",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2372,14 +2323,13 @@
         "prism:doi": "10.1001/jama.287.19.2563",
         "fabio:hasPubMedId": "12020338",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12020338",
-        "dct:identifier": "12020338",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2390,14 +2340,13 @@
         "prism:doi": "10.1056/NEJM200002103420603",
         "fabio:hasPubMedId": "10666428",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/10666428",
-        "dct:identifier": "10666428",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2408,14 +2357,13 @@
         "prism:doi": "10.1001/jama.290.16.2159",
         "fabio:hasPubMedId": "14570951",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/14570951",
-        "dct:identifier": "14570951",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2426,14 +2374,13 @@
         "prism:doi": "10.1056/NEJMoa022314",
         "fabio:hasPubMedId": "12788993",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/12788993",
-        "dct:identifier": "12788993",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2444,14 +2391,13 @@
         "prism:doi": "10.1056/NEJMoa052187",
         "fabio:hasPubMedId": "16371630",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16371630",
-        "dct:identifier": "16371630",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -2460,8 +2406,8 @@
         "@type": "skos:Concept",
         "rdfs:label": "Insulin-Dependent Diabetes Mellitus",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       },
       {
@@ -2470,9 +2416,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Diabetic Retinopathy",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2481,9 +2427,9 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Diabetic Neuropathies",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2492,15 +2438,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Diabetic Nephropathies",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   },
@@ -2549,8 +2495,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/gap/",
       "dct:title": "The database of Genotypes and Phenotypes (dbGaP)",
       "@context": {
-        "dct": "http://purl.org/dc/terms/",
         "foaf": "http://xmlns.com/foaf/0.1/",
+        "dct": "http://purl.org/dc/terms/",
         "datmm": "http://schema.org/"
       }
     },
@@ -2575,14 +2521,13 @@
         "prism:doi": "10.2337/db08-1514",
         "fabio:hasPubMedId": "19252134",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19252134",
-        "dct:identifier": "19252134",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       },
       {
@@ -2593,14 +2538,13 @@
         "prism:doi": "10.1681/ASN.2005080822",
         "fabio:hasPubMedId": "16775037",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/16775037",
-        "dct:identifier": "16775037",
         "@context": {
-          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
+          "foaf": "http://xmlns.com/foaf/0.1/",
           "fabio": "http://purl.org/spar/fabio/",
+          "prism": "http://prismstandard.org/namespaces/basic/3.0/",
           "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "datmm": "http://schema.org/",
-          "foaf": "http://xmlns.com/foaf/0.1/"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -2611,15 +2555,15 @@
         "skos:inScheme": "MESH",
         "rdfs:label": "Diabetic Nephropathies",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
     "@context": {
-      "dct": "http://purl.org/dc/terms/",
       "foaf": "http://xmlns.com/foaf/0.1/",
+      "dct": "http://purl.org/dc/terms/",
       "datmm": "http://schema.org/"
     }
   }

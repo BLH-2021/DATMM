@@ -14,8 +14,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -39,14 +39,13 @@
         "prism:doi": "10.4049/jimmunol.1501557",
         "fabio:hasPubMedId": "26826244",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26826244",
-        "dct:identifier": "26826244",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -55,14 +54,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Homo sapiens",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -81,8 +80,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -106,14 +105,13 @@
         "prism:doi": "10.3390/v7052618",
         "fabio:hasPubMedId": "26008703",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26008703",
-        "dct:identifier": "26008703",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -122,14 +120,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Homo sapiens",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -148,8 +146,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -173,14 +171,13 @@
         "prism:doi": "10.1084/jem.20150632",
         "fabio:hasPubMedId": "26392224",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26392224",
-        "dct:identifier": "26392224",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -189,14 +186,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Mus musculus",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -215,8 +212,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -240,14 +237,13 @@
         "prism:doi": "10.18632/oncotarget.4530",
         "fabio:hasPubMedId": "26109433",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26109433",
-        "dct:identifier": "26109433",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -256,14 +252,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Homo sapiens",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -282,8 +278,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -307,14 +303,13 @@
         "prism:doi": "10.1523/JNEUROSCI.0498-15.2015",
         "fabio:hasPubMedId": "26224856",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26224856",
-        "dct:identifier": "26224856",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -323,14 +318,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Mus musculus",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -349,8 +344,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -374,14 +369,13 @@
         "prism:doi": "10.1093/hmg/ddv243",
         "fabio:hasPubMedId": "26123491",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26123491",
-        "dct:identifier": "26123491",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -390,14 +384,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Mus musculus",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -416,8 +410,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -441,14 +435,13 @@
         "prism:doi": "10.1093/hmg/ddv243",
         "fabio:hasPubMedId": "26123491",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26123491",
-        "dct:identifier": "26123491",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -457,14 +450,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Mus musculus",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -483,8 +476,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -508,14 +501,13 @@
         "prism:doi": "10.1124/mol.114.097345",
         "fabio:hasPubMedId": "25993998",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25993998",
-        "dct:identifier": "25993998",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -524,14 +516,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Homo sapiens",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -550,8 +542,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -575,14 +567,13 @@
         "prism:doi": "10.1002/eji.201445050",
         "fabio:hasPubMedId": "25652593",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25652593",
-        "dct:identifier": "25652593",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -591,14 +582,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Mus musculus",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
@@ -617,8 +608,8 @@
       "foaf:homepage": "https://www.ncbi.nlm.nih.gov/geo/",
       "dct:title": "Gene Expression Omnibus",
       "@context": {
-        "datmm": "http://schema.org/",
         "dct": "http://purl.org/dc/terms/",
+        "datmm": "http://schema.org/",
         "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
@@ -642,14 +633,13 @@
         "prism:doi": "10.1093/nar/gku1298",
         "fabio:hasPubMedId": "25488809",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25488809",
-        "dct:identifier": "25488809",
         "@context": {
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
           "foaf": "http://xmlns.com/foaf/0.1/",
           "datmm": "http://schema.org/",
+          "fabio": "http://purl.org/spar/fabio/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "dct": "http://purl.org/dc/terms/",
-          "fabio": "http://purl.org/spar/fabio/"
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "dct": "http://purl.org/dc/terms/"
         }
       }
     ],
@@ -658,14 +648,14 @@
         "@type": "skos:Concept",
         "rdfs:label": "Homo sapiens",
         "@context": {
-          "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "skos": "http://www.w3.org/2004/02/skos/core#"
         }
       }
     ],
     "@context": {
-      "datmm": "http://schema.org/",
       "dct": "http://purl.org/dc/terms/",
+      "datmm": "http://schema.org/",
       "foaf": "http://xmlns.com/foaf/0.1/"
     }
   }
