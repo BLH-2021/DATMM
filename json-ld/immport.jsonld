@@ -5,7 +5,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1708",
     "dct:issued": "2021-06-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1708",
     "dct:title": "Broad dysregulation of innate immunity and hematopoiesis distinguishes mild from severe COVID-19",
     "dct:language": "English",
     "bf:contribution": [
@@ -45,8 +45,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -75,8 +75,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -86,15 +86,15 @@
         "rdfs:label": "Infection Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -103,7 +103,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1711",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1711",
     "dct:title": "Safety, Tolerability, and Immunogenicity of Plasmodium falciparum Sporozoite Vaccine Administered by Direct Venous Inoculation to Infants and Young Children",
     "dct:language": "English",
     "bf:contribution": [
@@ -129,8 +129,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -160,12 +160,12 @@
         "fabio:hasPubMedId": "31555824",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31555824",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -177,8 +177,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -188,15 +188,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -205,7 +205,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1769",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1769",
     "dct:title": "Maternal and Infant Immune Repertoire Sequencing in PPROM study",
     "dct:language": "English",
     "bf:contribution": [
@@ -231,8 +231,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -273,8 +273,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -283,7 +283,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1734",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1734",
     "dct:title": "Controlled malaria infection in Europeans and Africans",
     "dct:language": "English",
     "bf:contribution": [
@@ -309,8 +309,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -340,12 +340,12 @@
         "fabio:hasPubMedId": "29260650",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29260650",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -357,12 +357,12 @@
         "fabio:hasPubMedId": "33888898",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33888898",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -374,8 +374,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -385,15 +385,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -402,7 +402,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1469",
     "dct:issued": "2020-01-29",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1469",
     "dct:title": "B-cell Immunity to Influenza (SLVP017) 2011",
     "dct:language": "English",
     "bf:contribution": [
@@ -428,8 +428,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -459,12 +459,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -496,8 +496,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -506,7 +506,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1691",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1691",
     "dct:title": "Vaccine Efficay and Placebo Cohorts with Malaria Natural History Groups 2 & 3: Safety, Immunogenicity, and Protective Efficacy of Radiation Attenuated Plasmodium falciparum NF54",
     "dct:language": "English",
     "bf:contribution": [
@@ -546,8 +546,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -577,12 +577,12 @@
         "fabio:hasPubMedId": "19946222",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19946222",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -594,12 +594,12 @@
         "fabio:hasPubMedId": "23929949",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23929949",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -611,12 +611,12 @@
         "fabio:hasPubMedId": "25889522",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25889522",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -628,8 +628,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -639,15 +639,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -656,7 +656,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1613",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1613",
     "dct:title": "Paired Heavy and Light Chain Immunoglobulin Reconstruction in Single-Cell RNA-Seq Data",
     "dct:language": "English",
     "bf:contribution": [
@@ -682,8 +682,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -713,12 +713,12 @@
         "fabio:hasPubMedId": "29558968",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29558968",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -742,8 +742,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -752,7 +752,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1715",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1715",
     "dct:title": "A Retrospective Multicenter study to Determine Up to 5 Year Clinical Outcomes in Subjects Previously Randomized in the CTOT-11 Study (CTOT-23)",
     "dct:language": "English",
     "bf:contribution": [
@@ -778,8 +778,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -809,12 +809,12 @@
         "fabio:hasPubMedId": "31272550",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31272550",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -826,8 +826,8 @@
         "rdfs:label": "Heart Transplantation",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -837,15 +837,15 @@
         "rdfs:label": "Transplantation",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -854,7 +854,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1689",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1689",
     "dct:title": "Safety groups 1A & 1B: Safety, Immunogenicity, and Protective Efficacy of Radiation Attenuated Plasmodium falciparum NF54",
     "dct:language": "English",
     "bf:contribution": [
@@ -894,8 +894,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -925,12 +925,12 @@
         "fabio:hasPubMedId": "19946222",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19946222",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -942,12 +942,12 @@
         "fabio:hasPubMedId": "23929949",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23929949",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -959,12 +959,12 @@
         "fabio:hasPubMedId": "25889522",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25889522",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -976,8 +976,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -987,15 +987,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1004,7 +1004,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY404",
     "dct:issued": "2016-02-05",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY404",
     "dct:title": "Immunologic and genomic signatures of influenza vaccine response - 2011 (see companion studies SDY63, SDY400, SDY520)",
     "dct:language": "English",
     "bf:contribution": [
@@ -1030,8 +1030,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1061,12 +1061,12 @@
         "fabio:hasPubMedId": "25367297",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25367297",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1098,8 +1098,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1108,7 +1108,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1690",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1690",
     "dct:title": "Vaccine Safety and Placebo Groups Arm 1C & 1D with CHMI: Safety, Immunogenicity, and Protective Efficacy of Radiation Attenuated Plasmodium falciparum NF54",
     "dct:language": "English",
     "bf:contribution": [
@@ -1148,8 +1148,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1179,12 +1179,12 @@
         "fabio:hasPubMedId": "19946222",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/19946222",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -1196,12 +1196,12 @@
         "fabio:hasPubMedId": "23929949",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23929949",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -1213,12 +1213,12 @@
         "fabio:hasPubMedId": "25889522",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25889522",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1230,8 +1230,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -1241,15 +1241,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1258,7 +1258,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1352",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1352",
     "dct:title": "INDIGO HLA  and KIR part 1",
     "dct:language": "English",
     "bf:contribution": [
@@ -1326,8 +1326,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1400,8 +1400,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1410,7 +1410,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1700",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1700",
     "dct:title": "Safety, Tolerability, and Immunogenicity of Plasmodium falciparum Sporozoite Vaccine Administered by Direct Venous Inoculation to Infants and Young Children",
     "dct:language": "English",
     "bf:contribution": [
@@ -1436,8 +1436,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1467,12 +1467,12 @@
         "fabio:hasPubMedId": "31555824",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31555824",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1484,8 +1484,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -1495,15 +1495,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1512,7 +1512,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1768",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1768",
     "dct:title": "Evolutionary transcriptomics implicates HAND2",
     "dct:language": "English",
     "bf:contribution": [
@@ -1538,8 +1538,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1569,12 +1569,12 @@
         "fabio:hasPubMedId": "33522483",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33522483",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1598,8 +1598,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1608,7 +1608,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1772",
     "dct:issued": "2021-06-04",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1772",
     "dct:title": "Proteomic Signatures Predict Preeclampsia in Individual Cohorts but not Across Cohorts",
     "dct:language": "English",
     "bf:contribution": [
@@ -1634,8 +1634,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1665,12 +1665,12 @@
         "fabio:hasPubMedId": "33653202",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33653202",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1682,8 +1682,8 @@
         "rdfs:label": "pre-eclampsia",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -1693,15 +1693,15 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1710,7 +1710,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1696",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1696",
     "dct:title": "The interaction between the vaginal microbiome, cervical length and vaginal progesterone treatment for preterm birth risk",
     "dct:language": "English",
     "bf:contribution": [
@@ -1736,8 +1736,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1767,12 +1767,12 @@
         "fabio:hasPubMedId": "28103952",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/28103952",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1796,8 +1796,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1805,7 +1805,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1707",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1707",
     "dct:title": null,
     "dct:language": "English",
     "bf:contribution": [
@@ -1831,8 +1831,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1862,12 +1862,12 @@
         "fabio:hasPubMedId": "33260001",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33260001",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -1883,8 +1883,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -1893,7 +1893,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1381",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1381",
     "dct:title": "Host Determinants Of Protection Against Tuberculosis In Adolescents",
     "dct:language": "English",
     "bf:contribution": [
@@ -1919,8 +1919,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -1992,12 +1992,12 @@
         "fabio:hasPubMedId": "27017310",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/27017310",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -2009,8 +2009,8 @@
         "rdfs:label": "tuberculosis",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -2020,15 +2020,15 @@
         "rdfs:label": "Immune Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2037,7 +2037,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1712",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1712",
     "dct:title": "Microbial antigen encounter during a preweaning interval is critical for tolerance to gut bacteria gastrointestinal tract (GI)",
     "dct:language": "English",
     "bf:contribution": [
@@ -2063,8 +2063,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2105,8 +2105,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2115,7 +2115,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1667",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1667",
     "dct:title": "Cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans",
     "dct:language": "English",
     "bf:contribution": [],
@@ -2126,8 +2126,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2157,12 +2157,12 @@
         "fabio:hasPubMedId": "32753554",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32753554",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -2174,8 +2174,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -2185,15 +2185,15 @@
         "rdfs:label": "Infection Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2202,7 +2202,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1723",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1723",
     "dct:title": "gso32 infected with Mtb",
     "dct:language": "English",
     "bf:contribution": [
@@ -2228,8 +2228,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2258,8 +2258,8 @@
         "rdfs:label": "tuberculosis",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -2269,15 +2269,15 @@
         "rdfs:label": "Infection Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2286,7 +2286,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1725",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1725",
     "dct:title": "Response of human MDDCs to HIV",
     "dct:language": "English",
     "bf:contribution": [
@@ -2312,8 +2312,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2343,12 +2343,12 @@
         "fabio:hasPubMedId": "31968263",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31968263",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -2372,8 +2372,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2382,7 +2382,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1666",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1666",
     "dct:title": "KSHV tropism in B lymphocytes",
     "dct:language": "English",
     "bf:contribution": [
@@ -2408,8 +2408,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2438,8 +2438,8 @@
         "rdfs:label": "viral tropism",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -2449,15 +2449,15 @@
         "rdfs:label": "Infection Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2466,7 +2466,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1722",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1722",
     "dct:title": "Perturbation of ILF3 in Human MDDCs",
     "dct:language": "English",
     "bf:contribution": [
@@ -2492,8 +2492,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2534,8 +2534,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2544,7 +2544,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1640",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1640",
     "dct:title": "T and B cell responses to SARS-CoV-2 coronavirus",
     "dct:language": "English",
     "bf:contribution": [
@@ -2570,8 +2570,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2615,12 +2615,12 @@
         "fabio:hasPubMedId": "32473127",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32473127",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -2652,8 +2652,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2662,7 +2662,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1672",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1672",
     "dct:title": "Immune Response to IAV",
     "dct:language": "English",
     "bf:contribution": [
@@ -2688,8 +2688,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2719,12 +2719,12 @@
         "fabio:hasPubMedId": "32348764",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32348764",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -2748,8 +2748,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2758,7 +2758,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1660",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1660",
     "dct:title": "Rituximab for Treatment of Systemic Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH) (ASC01)",
     "dct:language": "English",
     "bf:contribution": [
@@ -2798,8 +2798,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2829,12 +2829,12 @@
         "fabio:hasPubMedId": "28963118",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/28963118",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -2846,8 +2846,8 @@
         "rdfs:label": "hypertension",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -2857,15 +2857,15 @@
         "rdfs:label": "Autoimmune",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2874,7 +2874,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1596",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1596",
     "dct:title": "Licensed BCG formulations differ markedly in innate immune activation",
     "dct:language": "English",
     "bf:contribution": [
@@ -2914,8 +2914,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -2956,8 +2956,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -2966,7 +2966,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1710",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1710",
     "dct:title": "Early Prediction of Preeclampsia via Machine Learning",
     "dct:language": "English",
     "bf:contribution": [
@@ -2992,8 +2992,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3023,12 +3023,12 @@
         "fabio:hasPubMedId": "33345966",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33345966",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3040,8 +3040,8 @@
         "rdfs:label": "pre-eclampsia",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -3051,15 +3051,15 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3068,7 +3068,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1591",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1591",
     "dct:title": "Th17 reprograming of T cells in systemic juvenile idiopathic arthritis",
     "dct:language": "English",
     "bf:contribution": [
@@ -3094,8 +3094,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3139,12 +3139,12 @@
         "fabio:hasPubMedId": "32213704",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32213704",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3168,8 +3168,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3178,7 +3178,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1620",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1620",
     "dct:title": "Treated HIV infection induces alterations in phenotype but not HIV-specific function of peripheral blood natural killer cells",
     "dct:language": "English",
     "bf:contribution": [
@@ -3204,8 +3204,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3263,12 +3263,12 @@
         "fabio:hasPubMedId": "32477342",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32477342",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3292,8 +3292,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3302,7 +3302,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1625",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1625",
     "dct:title": "Double Expressor Assessment",
     "dct:language": "English",
     "bf:contribution": [
@@ -3342,8 +3342,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3384,8 +3384,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3394,7 +3394,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1702",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1702",
     "dct:title": "Mid-gestation serum lipidomic profile of PTB are influenced by BMI",
     "dct:language": "English",
     "bf:contribution": [
@@ -3420,8 +3420,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3451,12 +3451,12 @@
         "fabio:hasPubMedId": "33201881",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33201881",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3480,8 +3480,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3490,7 +3490,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY472",
     "dct:issued": "2016-03-18",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY472",
     "dct:title": "Plasmablast response to inactivated and live attenuated influenza vaccines (TIV3/TIV3 ID) in SLVP021 2013",
     "dct:language": "English",
     "bf:contribution": [
@@ -3516,8 +3516,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3547,12 +3547,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3576,8 +3576,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3586,7 +3586,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1737",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1737",
     "dct:title": "A Research Trial of Aralast in New Onset Diabetes (RETAIN) (ITN041AI)",
     "dct:language": "English",
     "bf:contribution": [
@@ -3612,8 +3612,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3643,12 +3643,12 @@
         "fabio:hasPubMedId": "29473705",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29473705",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3672,8 +3672,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3682,7 +3682,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1647",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1647",
     "dct:title": "CD16 is upregulated in HIV-exposed seronegative women and may mediate enhanced antibody-dependent cytotoxicity",
     "dct:language": "English",
     "bf:contribution": [
@@ -3708,8 +3708,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3767,12 +3767,12 @@
         "fabio:hasPubMedId": "32870938",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32870938",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3796,8 +3796,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3806,7 +3806,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1738",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1738",
     "dct:title": "Multiomics Characterization of PTB in Low- and Middle-Income Countries",
     "dct:language": "English",
     "bf:contribution": [
@@ -3832,8 +3832,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3863,12 +3863,12 @@
         "fabio:hasPubMedId": "33337494",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33337494",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3892,8 +3892,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3902,7 +3902,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1732",
     "dct:issued": "2021-02-24",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1732",
     "dct:title": "Maternal gut microbiota reflecting poor diet quality is associated with sPTB",
     "dct:language": "English",
     "bf:contribution": [
@@ -3928,8 +3928,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -3959,12 +3959,12 @@
         "fabio:hasPubMedId": "33515003",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33515003",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -3988,8 +3988,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -3998,7 +3998,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1618",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1618",
     "dct:title": "Superior mouse eosinophil depletion in vivo targeting transgenic Siglec-8 instead of endogenous Siglec-F: mechanisms and pitfalls",
     "dct:language": "English",
     "bf:contribution": [
@@ -4024,8 +4024,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4055,12 +4055,12 @@
         "fabio:hasPubMedId": "32134149",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32134149",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4076,8 +4076,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4086,7 +4086,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1688",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1688",
     "dct:title": "Computational discovery of therapeutic candidates for preventing preterm birth",
     "dct:language": "English",
     "bf:contribution": [
@@ -4112,8 +4112,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4143,12 +4143,12 @@
         "fabio:hasPubMedId": "32051340",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32051340",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4172,8 +4172,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4182,7 +4182,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1599",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1599",
     "dct:title": "Synovial fibroblast positional identity controlled by inductive Notch signaling underlies pathologic damage in inflammatory arthritis",
     "dct:language": "English",
     "bf:contribution": [],
@@ -4193,8 +4193,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4238,12 +4238,12 @@
         "fabio:hasPubMedId": "32499639",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32499639",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4275,8 +4275,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4285,7 +4285,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1471",
     "dct:issued": "2020-01-29",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1471",
     "dct:title": "B-cell Immunity to Influenza (SLVP017) 2013",
     "dct:language": "English",
     "bf:contribution": [
@@ -4311,8 +4311,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4342,12 +4342,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4379,8 +4379,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4389,7 +4389,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1686",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1686",
     "dct:title": "Dissecting maternal and fetal genetic effects underlying the associations between maternal phenotypes, birth outcomes, and adult phenotypes",
     "dct:language": "English",
     "bf:contribution": [
@@ -4415,8 +4415,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4446,12 +4446,12 @@
         "fabio:hasPubMedId": "32841251",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32841251",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4463,8 +4463,8 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -4474,15 +4474,15 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4491,7 +4491,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1701",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1701",
     "dct:title": "Unique transcriptomic landscapes identified in isPTB  and infectiion-PTB/AHC",
     "dct:language": "English",
     "bf:contribution": [
@@ -4517,8 +4517,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4548,12 +4548,12 @@
         "fabio:hasPubMedId": "31703110",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31703110",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4577,8 +4577,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4587,7 +4587,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1684",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1684",
     "dct:title": "Clinical Immunology of Infant Macaques",
     "dct:language": "English",
     "bf:contribution": [
@@ -4613,8 +4613,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4658,12 +4658,12 @@
         "fabio:hasPubMedId": "32766187",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32766187",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4687,8 +4687,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4697,7 +4697,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1693",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1693",
     "dct:title": "The association between vaginal bacterial composition and miscarriage",
     "dct:language": "English",
     "bf:contribution": [
@@ -4723,8 +4723,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4754,12 +4754,12 @@
         "fabio:hasPubMedId": "31573753",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31573753",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4771,8 +4771,8 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -4782,15 +4782,15 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4799,7 +4799,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1679",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1679",
     "dct:title": "Relaxed constraint and functional divergence of PGR",
     "dct:language": "English",
     "bf:contribution": [
@@ -4825,8 +4825,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4856,12 +4856,12 @@
         "fabio:hasPubMedId": "32302297",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32302297",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4873,8 +4873,8 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -4884,15 +4884,15 @@
         "rdfs:label": "Molecular Biology",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4901,7 +4901,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1626",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1626",
     "dct:title": "Transcriptome and Regulatory Maps of Decidua-derived Stromal Cells Inform Gene Discovery in Preterm Birth",
     "dct:language": "English",
     "bf:contribution": [
@@ -4927,8 +4927,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -4958,12 +4958,12 @@
         "fabio:hasPubMedId": "33268355",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33268355",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -4987,8 +4987,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -4997,7 +4997,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1697",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1697",
     "dct:title": "Influenza / S. aureus Superinfection",
     "dct:language": "English",
     "bf:contribution": [
@@ -5023,8 +5023,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5054,12 +5054,12 @@
         "fabio:hasPubMedId": "32581129",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32581129",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5083,8 +5083,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5093,7 +5093,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1514",
     "dct:issued": "2020-01-29",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1514",
     "dct:title": "An Observational Study of Childhood Food Allergy (CoFAR2)",
     "dct:language": "English",
     "bf:contribution": [
@@ -5119,8 +5119,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5150,12 +5150,12 @@
         "fabio:hasPubMedId": "20451041",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/20451041",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -5167,12 +5167,12 @@
         "fabio:hasPubMedId": "24636473",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24636473",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -5184,12 +5184,12 @@
         "fabio:hasPubMedId": "25457149",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25457149",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5229,8 +5229,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5239,7 +5239,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1692",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1692",
     "dct:title": "High-throughput quantitation of serological ceramides/dihydroceramides by LC/MS/MS",
     "dct:language": "English",
     "bf:contribution": [
@@ -5265,8 +5265,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5296,12 +5296,12 @@
         "fabio:hasPubMedId": "33017796",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33017796",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5313,8 +5313,8 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -5324,15 +5324,15 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5341,7 +5341,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1631",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1631",
     "dct:title": "The roles of CD103 and CD49a in adherence and motility of CD8 T cells",
     "dct:language": "English",
     "bf:contribution": [
@@ -5367,8 +5367,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5409,8 +5409,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5419,7 +5419,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1646",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1646",
     "dct:title": "43rd Multicenter Airway Research Collaboration (MARC-43)",
     "dct:language": "English",
     "bf:contribution": [
@@ -5445,8 +5445,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5476,12 +5476,12 @@
         "fabio:hasPubMedId": "27354456",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/27354456",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5505,8 +5505,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5515,7 +5515,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1671",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1671",
     "dct:title": "Study of Safety and Effectiveness of Intravenous Immunization With PfSPZ Vaccine in Healthy African Adults - Vaccine Efficacy and Placebo Cohorts",
     "dct:language": "English",
     "bf:contribution": [
@@ -5555,8 +5555,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5586,12 +5586,12 @@
         "fabio:hasPubMedId": "28216244",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/28216244",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5603,8 +5603,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -5614,15 +5614,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5631,7 +5631,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1619",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1619",
     "dct:title": "Study of Safety and Effectiveness of Intravenous Immunization With PfSPZ Vaccine in Healthy African Adults - Vaccine Safety Cohort",
     "dct:language": "English",
     "bf:contribution": [
@@ -5671,8 +5671,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5702,12 +5702,12 @@
         "fabio:hasPubMedId": "28216244",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/28216244",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5719,8 +5719,8 @@
         "rdfs:label": "malaria",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -5730,15 +5730,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5747,7 +5747,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1683",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1683",
     "dct:title": "PLA2G6 in attenuating ferroptosis",
     "dct:language": "English",
     "bf:contribution": [
@@ -5773,8 +5773,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5804,12 +5804,12 @@
         "fabio:hasPubMedId": "33087576",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33087576",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5833,8 +5833,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5843,7 +5843,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1466",
     "dct:issued": "2020-01-29",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1466",
     "dct:title": "Monozygotic and Dizygotic Twin Pair T-Cell Responses to Influenza Vaccination SLVP018 2013",
     "dct:language": "English",
     "bf:contribution": [
@@ -5869,8 +5869,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -5900,12 +5900,12 @@
         "fabio:hasPubMedId": "25594173",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25594173",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -5917,12 +5917,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -5954,8 +5954,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -5964,7 +5964,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1699",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1699",
     "dct:title": "Vaginal dysbiosis increases risk of PPROM, neonatal sepsis and is exacerbated by erythromycin",
     "dct:language": "English",
     "bf:contribution": [
@@ -5990,8 +5990,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6021,12 +6021,12 @@
         "fabio:hasPubMedId": "29361936",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29361936",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6050,8 +6050,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6060,7 +6060,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1681",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1681",
     "dct:title": "Endometrial Gland Organoids",
     "dct:language": "English",
     "bf:contribution": [
@@ -6086,8 +6086,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6117,12 +6117,12 @@
         "fabio:hasPubMedId": "32937244",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32937244",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6134,8 +6134,8 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -6145,15 +6145,15 @@
         "rdfs:label": "Pregnancy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6162,7 +6162,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1680",
     "dct:issued": "2020-12-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1680",
     "dct:title": "Comorbid illnesses are associated with altered adaptive immune responses to SARS-CoV-2",
     "dct:language": "English",
     "bf:contribution": [
@@ -6188,8 +6188,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6219,12 +6219,12 @@
         "fabio:hasPubMedId": "33621211",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/33621211",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6236,8 +6236,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -6247,15 +6247,15 @@
         "rdfs:label": "Immune Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6264,7 +6264,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1630",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1630",
     "dct:title": "Effects of tissue localization on Natural Killer (NK) cell phenotypic and functional diversity",
     "dct:language": "English",
     "bf:contribution": [
@@ -6290,8 +6290,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6321,20 +6321,20 @@
         "fabio:hasPubMedId": "32059780",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32059780",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
     "dct:subject": [],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6343,7 +6343,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1648",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1648",
     "dct:title": "Sex differences in immune responses to SARS-CoV-2 (Companion study to SDY1655)",
     "dct:language": "English",
     "bf:contribution": [
@@ -6369,8 +6369,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6400,12 +6400,12 @@
         "fabio:hasPubMedId": "32846427",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32846427",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6417,8 +6417,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -6428,15 +6428,15 @@
         "rdfs:label": "Infection Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6445,7 +6445,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1434",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1434",
     "dct:title": "Steroid and Tacrolimus Avoidance Using NULOJIX (Belatacept) in Renal Transplantation (CTOT-16)",
     "dct:language": "English",
     "bf:contribution": [
@@ -6471,8 +6471,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6502,12 +6502,12 @@
         "fabio:hasPubMedId": "32558199",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32558199",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6519,8 +6519,8 @@
         "rdfs:label": "Kidney Transplantation",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -6530,15 +6530,15 @@
         "rdfs:label": "Transplantation",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6547,7 +6547,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1603",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1603",
     "dct:title": "Investigating the natural killer cell response to acute dengue infection.",
     "dct:language": "English",
     "bf:contribution": [
@@ -6587,8 +6587,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6643,8 +6643,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6653,7 +6653,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1654",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1654",
     "dct:title": "Single-cell transcriptomics of human T cells",
     "dct:language": "English",
     "bf:contribution": [
@@ -6679,8 +6679,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6710,12 +6710,12 @@
         "fabio:hasPubMedId": "31624246",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31624246",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6731,8 +6731,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6741,7 +6741,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1634",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1634",
     "dct:title": "Charge-Altering Releasable Transporters Enable Specific Phenotypic Manipulation Of Resting Primary Natural Killer Cells",
     "dct:language": "English",
     "bf:contribution": [
@@ -6767,8 +6767,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6798,12 +6798,12 @@
         "fabio:hasPubMedId": "32898247",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32898247",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -6819,8 +6819,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6829,7 +6829,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1633",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1633",
     "dct:title": "SR Tacrolimus Safety and PK Study in Healthy Subjects",
     "dct:language": "English",
     "bf:contribution": [
@@ -6855,8 +6855,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6889,8 +6889,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -6899,7 +6899,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1662",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1662",
     "dct:title": "An Inflammatory Cytokine Signature Predicts Covid-19 Severity And Survival",
     "dct:language": "English",
     "bf:contribution": [
@@ -6925,8 +6925,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -6970,12 +6970,12 @@
         "fabio:hasPubMedId": "32511562",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32511562",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -6987,12 +6987,12 @@
         "fabio:hasPubMedId": "32839624",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32839624",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -7004,8 +7004,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -7015,15 +7015,15 @@
         "rdfs:label": "Infection Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7032,7 +7032,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1655",
     "dct:issued": "2020-09-30",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1655",
     "dct:title": "Longitudinal Analyses Reveal Immunological Misfiring in Severe COVID-19 (Companion study to SDY1648)",
     "dct:language": "English",
     "bf:contribution": [],
@@ -7043,8 +7043,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7074,12 +7074,12 @@
         "fabio:hasPubMedId": "32717743",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32717743",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -7091,8 +7091,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -7102,15 +7102,15 @@
         "rdfs:label": "Immune Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7119,7 +7119,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1632",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1632",
     "dct:title": "T cell and chemokine receptor control of CD8 T cell motility after influenza infection",
     "dct:language": "English",
     "bf:contribution": [
@@ -7145,8 +7145,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7187,8 +7187,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7197,7 +7197,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1657",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1657",
     "dct:title": "The Underlying Mechanisms For S. Aureus Infection And Colonization Of Skin in People With Atopic Dermatitis With And Without Eczema Herpeticum (MRSA) (ADVN-10)",
     "dct:language": "English",
     "bf:contribution": [
@@ -7223,8 +7223,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7268,12 +7268,12 @@
         "fabio:hasPubMedId": "18419342",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/18419342",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -7297,8 +7297,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7307,7 +7307,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1414",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1414",
     "dct:title": "Alloantibodies in Pediatric Heart Transplantation (CTOTC-04)",
     "dct:language": "English",
     "bf:contribution": [
@@ -7333,8 +7333,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7364,12 +7364,12 @@
         "fabio:hasPubMedId": "29442424",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29442424",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -7381,12 +7381,12 @@
         "fabio:hasPubMedId": "29446208",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29446208",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -7398,12 +7398,12 @@
         "fabio:hasPubMedId": "29673058",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29673058",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -7415,12 +7415,12 @@
         "fabio:hasPubMedId": "31324444",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31324444",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -7432,12 +7432,12 @@
         "fabio:hasPubMedId": "31483086",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31483086",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -7469,8 +7469,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7479,7 +7479,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1641",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1641",
     "dct:title": "Renin-angiotensin system inhibitors improve the clinical outcomes of COVID-19 patients with hypertension",
     "dct:language": "English",
     "bf:contribution": [
@@ -7505,8 +7505,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7536,12 +7536,12 @@
         "fabio:hasPubMedId": "32228222",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32228222",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -7553,8 +7553,8 @@
         "rdfs:label": "COVID-19",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -7564,15 +7564,15 @@
         "rdfs:label": "Immune Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7581,7 +7581,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1658",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1658",
     "dct:title": "A comparative CyTOF analysis of resected-tumor samples from human GBM patients and mouse GBM-tumors (see companion study SDY1637)",
     "dct:language": "English",
     "bf:contribution": [
@@ -7607,8 +7607,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7657,8 +7657,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7667,7 +7667,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1637",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1637",
     "dct:title": "Immune phenotyping of diverse syngeneic murine brain tumors identifies immunologically distinct types (see companion study SDY1658)",
     "dct:language": "English",
     "bf:contribution": [
@@ -7693,8 +7693,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7743,8 +7743,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7753,7 +7753,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1627",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1627",
     "dct:title": "Single-site, five-year experience with human eosinophil isolation by density gradient centrifugation and CD16 immunomagnetic negative separation",
     "dct:language": "English",
     "bf:contribution": [
@@ -7779,8 +7779,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7821,8 +7821,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7831,7 +7831,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1636",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1636",
     "dct:title": "Crowdsourcing Assessment of Maternal Blood Multi-omics for Predicting Gestational Age and Preterm Birth",
     "dct:language": "English",
     "bf:contribution": [
@@ -7857,8 +7857,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7899,8 +7899,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7909,7 +7909,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY520",
     "dct:issued": "2016-03-18",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY520",
     "dct:title": "Immunologic and genomic signatures of influenza vaccine response - 2013 (see companion studies SDY63, SDY404, SDY400)",
     "dct:language": "English",
     "bf:contribution": [
@@ -7935,8 +7935,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -7985,8 +7985,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -7995,7 +7995,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1642",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1642",
     "dct:title": "Establishment of Vaginal Microbiota Composition in Early Pregnancy and its Association with Subsequent Preterm Prelabor Rupture of the Fetal Membrane",
     "dct:language": "English",
     "bf:contribution": [
@@ -8021,8 +8021,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8052,12 +8052,12 @@
         "fabio:hasPubMedId": "30633889",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30633889",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8081,8 +8081,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8091,7 +8091,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1649",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1649",
     "dct:title": "Cervicovaginal Microbiota and Local Immune Response Modulate the Risk of Spontaneous Preterm Delivery",
     "dct:language": "English",
     "bf:contribution": [
@@ -8117,8 +8117,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8148,12 +8148,12 @@
         "fabio:hasPubMedId": "30899005",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30899005",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8177,8 +8177,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8187,7 +8187,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1656",
     "dct:issued": "2020-07-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1656",
     "dct:title": "Sublingual Cockroach Safety Study (SCSS) (ICAC-10)",
     "dct:language": "English",
     "bf:contribution": [
@@ -8213,8 +8213,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8244,12 +8244,12 @@
         "fabio:hasPubMedId": "24184147",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24184147",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8273,8 +8273,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8283,7 +8283,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1468",
     "dct:issued": "2020-01-29",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1468",
     "dct:title": "B-cell Immunity to Influenza (SLVP017) 2010",
     "dct:language": "English",
     "bf:contribution": [
@@ -8309,8 +8309,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8340,12 +8340,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8377,8 +8377,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8387,7 +8387,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1628",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1628",
     "dct:title": "Study of Antithymocyte Globulin for Treatment of New-onset T1DM (START)",
     "dct:language": "English",
     "bf:contribution": [
@@ -8413,8 +8413,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8444,12 +8444,12 @@
         "fabio:hasPubMedId": "24622416",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/24622416",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -8461,12 +8461,12 @@
         "fabio:hasPubMedId": "27053235",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/27053235",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -8478,12 +8478,12 @@
         "fabio:hasPubMedId": "28198767",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/28198767",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8515,8 +8515,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8525,7 +8525,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY702",
     "dct:issued": "2016-03-18",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY702",
     "dct:title": "Human T Cell Profile",
     "dct:language": "English",
     "bf:contribution": [
@@ -8551,8 +8551,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8582,12 +8582,12 @@
         "fabio:hasPubMedId": "25417158",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/25417158",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8603,8 +8603,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8613,7 +8613,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1364",
     "dct:issued": "2018-09-21",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1364",
     "dct:title": "Roles for Treg Expansion and HMGB1 Signaling through the TLR1-2-6 Axis in Determining the Magnitude of the Antigen-Specific Immune Response to MVA85A",
     "dct:language": "English",
     "bf:contribution": [
@@ -8639,8 +8639,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8670,12 +8670,12 @@
         "fabio:hasPubMedId": "23844129",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/23844129",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -8687,8 +8687,8 @@
         "rdfs:label": "tuberculosis",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -8698,15 +8698,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8715,7 +8715,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1597",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1597",
     "dct:title": "Immune Cell Repertoires in Breast Cancer Patients after Adjuvant Chemotherapy",
     "dct:language": "English",
     "bf:contribution": [
@@ -8741,8 +8741,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8783,8 +8783,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8793,7 +8793,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1555",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1555",
     "dct:title": "Allele-specific expression changes dynamically during T cell activation in HLA and other autoimmune loci",
     "dct:language": "English",
     "bf:contribution": [
@@ -8819,8 +8819,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8861,8 +8861,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8871,7 +8871,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1595",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1595",
     "dct:title": "MDR1 expression in hematopeotic cells",
     "dct:language": "English",
     "bf:contribution": [
@@ -8897,8 +8897,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -8924,8 +8924,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -8934,7 +8934,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1403",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1403",
     "dct:title": "PROGENI-LI (CTOT-14)",
     "dct:language": "English",
     "bf:contribution": [
@@ -8960,8 +8960,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -8990,8 +8990,8 @@
         "rdfs:label": "Liver Transplantation",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -9001,15 +9001,15 @@
         "rdfs:label": "Transplantation",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9018,7 +9018,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1328",
     "dct:issued": "2018-07-06",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1328",
     "dct:title": "Transcriptional profiling of HBV-naive subjects before vaccination against Hepatitis A/B viruses, Diphtheria/Tetanus toxoids and Cholera.",
     "dct:language": "English",
     "bf:contribution": [
@@ -9044,8 +9044,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9075,12 +9075,12 @@
         "fabio:hasPubMedId": "26742691",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/26742691",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9136,8 +9136,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9146,7 +9146,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1109",
     "dct:issued": "2017-11-07",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1109",
     "dct:title": "CD4 Nicaragua Epitope ID",
     "dct:language": "English",
     "bf:contribution": [
@@ -9172,8 +9172,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9203,12 +9203,12 @@
         "fabio:hasPubMedId": "29081779",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/29081779",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9232,8 +9232,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9242,7 +9242,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1370",
     "dct:issued": "2018-09-21",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1370",
     "dct:title": "Smallpox vaccination with LC16m8 vaccinia virus provides a gene expression profile similar to DryVax vaccination",
     "dct:language": "English",
     "bf:contribution": [
@@ -9268,8 +9268,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9298,8 +9298,8 @@
         "rdfs:label": "smallpox",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -9309,15 +9309,15 @@
         "rdfs:label": "Vaccine Response",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9326,7 +9326,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1433",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1433",
     "dct:title": "Optimization of NULOJIX (Belatacept) Usage as a Means of Minimizing CNI Exposure in Simultaneous Pancreas and Kidney Transplantation (CTOT-15)",
     "dct:language": "English",
     "bf:contribution": [
@@ -9352,8 +9352,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9383,12 +9383,12 @@
         "fabio:hasPubMedId": "32039559",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32039559",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9420,8 +9420,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9430,7 +9430,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1369",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1369",
     "dct:title": "Immune signatures of responses to infection with Dengue and Zika virus",
     "dct:language": "English",
     "bf:contribution": [
@@ -9470,8 +9470,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9515,12 +9515,12 @@
         "fabio:hasPubMedId": "32150565",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/32150565",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9552,8 +9552,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9562,7 +9562,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1536",
     "dct:issued": "2020-04-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1536",
     "dct:title": "Unconventional ST2- and CD127-negative lung ILC2 populations are induced by the fungal allergen Alternaria",
     "dct:language": "English",
     "bf:contribution": [
@@ -9588,8 +9588,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [],
@@ -9604,12 +9604,12 @@
         "fabio:hasPubMedId": "31369800",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31369800",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9621,8 +9621,8 @@
         "rdfs:label": "asthma",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       },
       {
@@ -9632,15 +9632,15 @@
         "rdfs:label": "Atopy/Allergy",
         "@context": {
           "skos": "http://www.w3.org/2004/02/skos/core#",
-          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-          "dct": "http://purl.org/dc/terms/"
+          "dct": "http://purl.org/dc/terms/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
         }
       }
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9649,7 +9649,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1464",
     "dct:issued": "2019-09-16",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1464",
     "dct:title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination SLVP015 2014",
     "dct:language": "English",
     "bf:contribution": [
@@ -9675,8 +9675,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9706,12 +9706,12 @@
         "fabio:hasPubMedId": "30842675",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30842675",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -9723,12 +9723,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9768,8 +9768,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9778,7 +9778,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY478",
     "dct:issued": "2016-03-18",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY478",
     "dct:title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination SLVP015 2013",
     "dct:language": "English",
     "bf:contribution": [
@@ -9804,8 +9804,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9835,12 +9835,12 @@
         "fabio:hasPubMedId": "30842675",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30842675",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -9852,12 +9852,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9897,8 +9897,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -9907,7 +9907,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY1598",
     "dct:issued": "2020-01-29",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY1598",
     "dct:title": "Epidemiological Evidence for Lineage-Specific Differences in the Risk of Inapparent Chikungunya Virus Infection",
     "dct:language": "English",
     "bf:contribution": [
@@ -9933,8 +9933,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -9964,12 +9964,12 @@
         "fabio:hasPubMedId": "30463967",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/30463967",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -9993,8 +9993,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -10003,7 +10003,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY887",
     "dct:issued": "2017-01-31",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY887",
     "dct:title": "Defective signaling in aging, influenza vaccination 2007 SLVP015",
     "dct:language": "English",
     "bf:contribution": [
@@ -10029,8 +10029,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -10060,12 +10060,12 @@
         "fabio:hasPubMedId": "27746093",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/27746093",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       },
       {
@@ -10077,12 +10077,12 @@
         "fabio:hasPubMedId": "31636302",
         "foaf:homepage": "https://pubmed.ncbi.nlm.nih.gov/31636302",
         "@context": {
-          "dct": "http://purl.org/dc/terms/",
           "prism": "http://prismstandard.org/namespaces/basic/3.0/",
-          "fabio": "http://purl.org/spar/fabio/",
-          "datmm": "http://schema.org/",
           "foaf": "http://xmlns.com/foaf/0.1/",
-          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          "dct": "http://purl.org/dc/terms/",
+          "fabio": "http://purl.org/spar/fabio/",
+          "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+          "datmm": "http://schema.org/"
         }
       }
     ],
@@ -10114,8 +10114,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   },
   {
@@ -10124,7 +10124,7 @@
     "dct:format": "Unknown",
     "dct:identifier": "SDY400",
     "dct:issued": "2016-02-05",
-    "foaf:homepage": "https://www.immport.org/shared/search",
+    "foaf:homepage": "https://www.immport.org/shared/study/SDY400",
     "dct:title": "Immunologic and genomic signatures of influenza vaccine response - 2012 (see companion studies SDY63, SDY404, SDY520)",
     "dct:language": "English",
     "bf:contribution": [
@@ -10150,8 +10150,8 @@
       "dct:title": "Bioinformatics for the Future of Immunology",
       "@context": {
         "datmm": "http://schema.org/",
-        "foaf": "http://xmlns.com/foaf/0.1/",
-        "dct": "http://purl.org/dc/terms/"
+        "dct": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
       }
     },
     "frapo:isSupportedBy": [
@@ -10200,8 +10200,8 @@
     ],
     "@context": {
       "datmm": "http://schema.org/",
-      "foaf": "http://xmlns.com/foaf/0.1/",
-      "dct": "http://purl.org/dc/terms/"
+      "dct": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
     }
   }
 ]
